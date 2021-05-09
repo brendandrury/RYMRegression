@@ -1,0 +1,4 @@
+files_to_scan/1994E-4.html : 40
+files_to_scan/2000-1.html : 40
+files_to_scan/2010-7.html : 0
+files_to_scan/2020-2.html : 8

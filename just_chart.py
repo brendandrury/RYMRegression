@@ -4,6 +4,10 @@ import numpy
 import datetime
 import copy
 
+# Creates a chart without re-running the regression
+
+# Uses saved regression in a .json file
+
 month_dict = {"January":1, "February":2, "March":3, "April":4, "May":5, "June":6, "July":7, "August":8, "September":9, "October":10, "November":11, "December":12}
 
 sys.stdout = open('chart.txt', 'w')
@@ -17,6 +21,7 @@ genre_dict = {}
 age_list = []
 
 def get_age(album):
+  """Convert release date to the number of days since release"""
   album_release_date = album["Release date"].split(" ")
   if len(album_release_date) == 3:
     day = album_release_date[0]
@@ -46,6 +51,7 @@ def get_age(album):
   return age.days
 
 def get_boost(age, boost_function):
+  """Apply adjustment based on regression, passed as argument"""
   if not boost_function:
     return 0
   vertex = -1 * boost_function[1] / (2 * boost_function[0])
@@ -56,6 +62,7 @@ def get_boost(age, boost_function):
     return max - boost_function[0] * age * age - boost_function[1] * age - boost_function[2]
 
 def sorting_function(album):
+  """Sort albums based on adjusted scores"""
   penalty = 0
   if album["Ratings"] < 564:
     penalty = 3.7255 - obscurity_model(album["Ratings"])
@@ -102,9 +109,11 @@ def sorting_function(album):
   return album["Rating"] + penalty + boost
 
 def sorting_function_2(genre):
+  """Placeholder: sort genres by average score"""
   return round(genre["average"], 2)
 
 def sorting_function_3(genre):
+  """Placeholder: sort genres by frequency"""
   return round(genre["appearances"], 2)
 
 json_database = open('database.json', 'r').read()

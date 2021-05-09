@@ -1,0 +1,1061 @@
+{ Album } ['The Microphones'] -- Microphones in 2020 ( 7 August 2020 ): 4.136041441840163
+{ Album } ['青葉市子'] -- アダンの風 (Windswept Adan) ( 2 December 2020 ): 4.107728528115029
+{ Album } ['King Gizzard and the Lizard Wizard'] -- Live in San Francisco '16 ( 20 November 2020 ): 4.080893598309709
+{ Album } ['clipping.'] -- Visions of Bodies Being Burned ( 23 October 2020 ): 4.0635278389778655
+{ Album } ['Jessie Ware'] -- What's Your Pleasure? ( 26 June 2020 ): 4.038258701160382
+{ Album } ['Black Country, New Road'] -- For the First Time ( 5 February 2021 ): 4.034756389921882
+{ Album } ['Moor Mother', 'Billy Woods'] -- Brass ( 11 December 2020 ): 4.032943270488886
+{ Album } ['Ad Nauseam'] -- Imperative Imperceptible Impulse ( 12 February 2021 ): 4.0242521988902915
+{ EP } ['Tkay Maidza'] -- Last Year Was Weird, Vol. 2 ( 7 August 2020 ): 4.018174975880988
+{ Album } ['DJ Sabrina the Teenage DJ'] -- Charmed ( 25 November 2020 ): 4.010977485050076
+{ Bootleg / Unauthorized } ['Toby Fox'] -- UNDERTALE 5th Anniversary Concert ( 20 September 2020 ): 4.0097577565344436
+{ Album } ['Fiona Apple'] -- Fetch the Bolt Cutters ( 17 April 2020 ): 4.0039065444717465
+{ Album } ['Natalia Lafourcade'] -- Un canto por México vol. 1 ( 8 May 2020 ): 3.9831558026989318
+{ Album } ['Nick Cave & Warren Ellis'] -- Carnage ( 25 February 2021 ): 3.98174337500933
+{ Album } ['Run the Jewels'] -- RTJ4 ( 3 June 2020 ): 3.9732653614721345
+{ Album } ['Oranssi Pazuzu'] -- Mestarin kynsi ( 17 April 2020 ): 3.971789647056197
+{ DJ Mix } ['Beckgoogle'] -- BECKGOOGLE//LIVE @ #BANGERFEST2 ( 6 February 2021 ): 3.9699381116772785
+{ Album } ['Trent Reznor and Atticus Ross'] -- Soul ( 18 December 2020 ): 3.9468373971977537
+{ Album } ['Adrianne Lenker'] -- Songs ( 23 October 2020 ): 3.9455890362634682
+{ Album } ['Boldy James', 'Sterling Toles'] -- Manger on McNichols ( 22 July 2020 ): 3.9426678552769645
+{ Album } ['The War on Drugs'] -- Live Drugs ( 20 November 2020 ): 3.9425582220958204
+{ Album } ['Lianne La Havas'] -- Lianne La Havas ( 17 July 2020 ): 3.9425113516543973
+{ Album } ['Freddie Gibbs', 'The Alchemist'] -- Alfredo ( 29 May 2020 ): 3.9409805752430453
+{ Album } ['Ulcerate'] -- Stare Into Death and Be Still ( 24 April 2020 ): 3.939890447278178
+{ Album } ['万能青年旅店'] -- 冀西南林路行 (Inside the Cable Temple) ( 22 December 2020 ): 3.936757121135769
+{ Album } ['The Koreatown Oddity'] -- Little Dominiques Nosebleed ( 19 June 2020 ): 3.9309249977106884
+{ EP } ['Serpent Column'] -- Endless Detainment ( 18 March 2020 ): 3.9280378961781235
+{ Album } ['R.A.P. Ferreira'] -- Purple Moonlight Pages ( 6 March 2020 ): 3.927666767511468
+{ Album } ['Kaatayra'] -- Toda história pela frente ( 18 August 2020 ): 3.9220818011871135
+{ Album } ['Blu & Exile'] -- Miles ( 17 July 2020 ): 3.9103713134615625
+{ Album } ['Phoebe Bridgers'] -- Punisher ( 19 June 2020 ): 3.9095030631182595
+{ Album } ['Charli XCX'] -- How I'm Feeling Now ( 15 May 2020 ): 3.908420194374919
+{ Album } ['Father John Misty'] -- Off-Key in Hamburg ( 23 March 2020 ): 3.9030338288918522
+{ Album } ['Akhlys'] -- Melinoë ( 14 December 2020 ): 3.8935999984710365
+{ EP } ['Shygirl'] -- Alias ( 20 November 2020 ): 3.882127677517533
+{ Album } ['Lingua Ignota'] -- The Caligula Demos ( 4 December 2020 ): 3.879544673348178
+{ Album } ['Neptunian Maximalism'] -- Éons ( 26 June 2020 ): 3.87758527803729
+{ Album } ['植松伸夫'] -- Final Fantasy VII Remake Original Soundtrack ( 27 May 2020 ): 3.874300541840846
+{ Album } ['Fleet Foxes'] -- Shore ( 22 September 2020 ): 3.8695797509629206
+{ Album } ['Anti-Kahraman'] -- Anti-Kahraman: 90 Nesli ( 12 November 2020 ): 3.8670156278437475
+{ Mixtape } ['dreamcrusher'] -- Panopticon! ( 1 May 2020 ): 3.8651605428342615
+{ Album } ['Mick Gordon'] -- Doom Eternal (Original Game Soundtrack) ( 19 April 2020 ): 3.864794327586766
+{ Album } ['Yves Tumor'] -- Heaven to a Tortured Mind ( 3 April 2020 ): 3.8643065305020388
+{ Album } ['Kaatayra'] -- Só quem viu o relâmpago à sua direita sabe ( 1 April 2020 ): 3.864245595217787
+{ Album } ['Suffering Hour'] -- The Cyclic Reckoning ( 19 February 2021 ): 3.8634997014640833
+{ Album } ['Aesop Rock'] -- Spirit World Field Guide ( 13 November 2020 ): 3.860463272415924
+{ Album } ['Róisín Murphy'] -- Róisín Machine ( 2 October 2020 ): 3.8591684202527583
+{ Album } ['Jeff Rosenstock'] -- NO DREAM ( 20 May 2020 ): 3.855032604270586
+{ Album } ['Perfume Genius'] -- Set My Heart on Fire Immediately ( 15 May 2020 ): 3.854880191712249
+{ Album } ['The Strokes'] -- The New Abnormal ( 10 April 2020 ): 3.8538148316540224
+{ Album } ['青葉市子'] -- "Gift" at Sogetsu Hall ( 3 April 2020 ): 3.853628337386892
+{ Album } ['Rivers Cuomo'] -- Alone IV: The EWBAITE Years ( 20 November 2020 ): 3.8534707202107774
+{ Album } ['Eternal Champion'] -- Ravening Iron ( 20 November 2020 ): 3.8499553486983267
+{ Album } ['Havukruunu'] -- Uinuos syömein sota ( 14 August 2020 ): 3.8469469265223273
+{ Album } ['Protomartyr'] -- Ultimate Success Today ( 17 July 2020 ): 3.8460912370758926
+{ Album } ['The Mountain Goats'] -- The Jordan Lake Sessions: Volumes 1 and 2 ( 4 December 2020 ): 3.845805581803177
+{ Bootleg / Unauthorized } ['Black Country, New Road'] -- Black Country, New Road ( 10 August 2020 ): 3.840339299434863
+{ Album } ['Navy Blue'] -- Song of Sage: Post Panic! ( 22 December 2020 ): 3.840215393369497
+{ Album } ['Wobbler'] -- Dwellers of the Deep ( 23 October 2020 ): 3.8383719428867433
+{ Album } ['The Ocean Collective'] -- Phanerozoic II: Mesozoic / Cenozoic ( 25 September 2020 ): 3.8375143607406867
+{ Album } ['Kashiwa Daisuke'] -- Program Music III ( 19 December 2020 ): 3.8365863647777827
+{ Album } ['Darren Korb'] -- Hades: Original Soundtrack ( 17 September 2020 ): 3.834898918857924
+{ Album } ['Bladee', 'Ecco2K'] -- Remote Utopias: 2nd May 2020 ( 8 May 2020 ): 3.8338661407849077
+{ Album } ['Toasty Digital'] -- 2049 (Deluxe Edition) ( 7 September 2020 ): 3.831806297724264
+{ Album } ['Boris With Merzbow'] -- 2R0I2P0 ( 11 December 2020 ): 3.8291509243737565
+{ Album } ['Draconian'] -- Under a Godless Veil ( 30 October 2020 ): 3.827864297209432
+{ Album } ['Lamp of Murmuur'] -- Heir of Ecliptical Romanticism ( 2 October 2020 ): 3.827008683417319
+{ Album } ['Sault'] -- Untitled (Rise) ( 18 September 2020 ): 3.8265815170527184
+{ Album } ['Ludwig Goransson'] -- Tenet ( 2 September 2020 ): 3.8260938493750762
+{ Album } ['Sturgill Simpson'] -- Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions) ( 11 December 2020 ): 3.826071993104733
+{ Album } ["Nick Mason's Saucerful of Secrets"] -- Live at the Roundhouse ( 18 September 2020 ): 3.825400719340975
+{ Album } ['Imperial Triumphant'] -- Alphaville ( 31 July 2020 ): 3.825089793236385
+{ Album } ["C'est la Key"] -- Metamorph ( 9 December 2020 ): 3.8243427621426136
+{ Album } ['Klô Pelgag'] -- Notre-Dame-des-Sept-Douleurs ( 26 June 2020 ): 3.8240274703295927
+{ Album } ['Esoctrilihum'] -- Eternity of Shaog ( 22 May 2020 ): 3.822967804709936
+{ Album } ['Quelle Chris', 'Chris Keys'] -- Innocent Country 2 ( 24 April 2020 ): 3.8221219828214936
+{ Album } ['OMORI'] -- OMORI OST ( 25 December 2020 ): 3.8216592965499054
+{ Album } ['Spectral Lore', 'Mare Cognitum'] -- Wanderers: Astrology of the Nine ( 13 March 2020 ): 3.820856429636532
+{ EP } ['Cult of Luna'] -- The Raging River ( 5 February 2021 ): 3.8201416883302928
+{ Album } ['Against All Logic'] -- 2017 - 2019 ( 7 February 2020 ): 3.8198047123673735
+{ Album } ['Chris Stapleton'] -- Starting Over ( 13 November 2020 ): 3.8175692360557467
+{ Album } ['Of Feather and Bone'] -- Sulfuric Disintegration ( 13 November 2020 ): 3.8175692360557467
+{ Album } ['Deftones'] -- Ohms ( 25 September 2020 ): 3.8160757330270516
+{ Album } ['Moor Mother'] -- Circuit City ( 25 September 2020 ): 3.8160757330270516
+{ EP } ['Slauson Malone'] -- Vergangenheitsbewältigung (Crater Speak) ( 16 September 2020 ): 3.8158019832267684
+{ Album } ['Conway the Machine'] -- From King to a GOD ( 11 September 2020 ): 3.815649975982075
+{ Album } ['Motorpsycho'] -- The All Is One ( 28 August 2020 ): 3.8152246442977287
+{ Album } ['Nick Cave'] -- Idiot Prayer: Nick Cave Alone at Alexandra Palace ( 20 November 2020 ): 3.8141039441829236
+{ Album } ['유키카'] -- 서울여자 (Soul Lady) ( 21 July 2020 ): 3.8140723147472446
+{ Album } ['Apollo Brown', 'Che Noir'] -- As God Intended ( 10 July 2020 ): 3.8137393294720154
+{ Album } ['MSW'] -- Obliviosus ( 1 July 2020 ): 3.8134670817772753
+{ DJ Mix } ['Porter Robinson'] -- Porter Robinson, Secret Sky Set, May 9, 2020 (DJ Mix) ( 9 May 2020 ): 3.812531532820319
+{ Album } ['Ka'] -- Descendants of Cain ( 1 May 2020 ): 3.8116264632936208
+{ Album } ['Laura Marling'] -- Song for Our Daughter ( 10 April 2020 ): 3.8109946668578667
+{ Album } ['tricot'] -- 真っ黒 (Makkuro) ( 29 January 2020 ): 3.8088357211722506
+{ Album } ['Avenade'] -- Vice Versa in Such Things ( 18 December 2020 ): 3.8079127073952073
+{ Album } ['The Avalanches'] -- We Will Always Love You ( 11 December 2020 ): 3.8076990984669
+{ Album } ['Boldy James', 'Real Bad Man'] -- Real Bad Boldy ( 11 December 2020 ): 3.8076990984669
+{ Bootleg / Unauthorized } ['Charli XCX'] -- Visions (Appleville 8:47 Mix) ( 13 September 2020 ): 3.8063001364728204
+{ Album } ['Wayfarer'] -- A Romance With Violence ( 16 October 2020 ): 3.8059940566805013
+{ Album } ['Skáphe'] -- Skáphe³ ( 30 September 2020 ): 3.805508150977204
+{ Album } ['Deafheaven'] -- 10 Years Gone ( 4 December 2020 ): 3.804222845881932
+{ Album } ['Idris Ackamoor', 'The Pyramids'] -- Shaman! ( 7 August 2020 ): 3.803872310500668
+{ EP } ['Machine Girl'] -- RePorpoised Phantasies ( 3 July 2020 ): 3.802815410032884
+{ EP } ['Uboa'] -- The Flesh of the World ( 20 May 2020 ): 3.8014904847668274
+{ Album } ['Rina Sawayama'] -- Sawayama ( 17 April 2020 ): 3.8004995275066036
+{ Album } ['Inquisition'] -- Black Mass for a Mass Grave ( 20 November 2020 ): 3.7963348006663167
+{ Album } ['Hellripper'] -- The Affair of the Poisons ( 9 October 2020 ): 3.7950608936874666
+{ EP } ['Oneohtrix Point Never'] -- Drive Time Suite ( 24 September 2020 ): 3.794606850912994
+{ Album } ['Sevdaliza'] -- Shabrang ( 28 August 2020 ): 3.7937907979814494
+{ Album } ['Selbst'] -- Relatos de angustia ( 7 August 2020 ): 3.7931571772316524
+{ Mixtape } ['Sematary', 'Ghost Mountain'] -- Hundred Acre Wrist Hosted by DJ Sorrow ( 31 July 2020 ): 3.792946181528516
+{ Album } ['Odraza'] -- Rzeczom ( 8 May 2020 ): 3.790422457407048
+{ Album } ['Shabaka and the Ancestors'] -- We Are Sent Here by History ( 13 March 2020 ): 3.7887483924126957
+{ Album } ['Cassandra Jenkins'] -- An Overview on Phenomenal Nature ( 19 February 2021 ): 3.7883760961578377
+{ Album } ['Majid Bekkas', 'Goran Kajfeš', 'Jesper Nordenström', 'Stefan Pasborg'] -- Magic Spirit Quartet ( 31 January 2020 ): 3.78749725170005
+{ Album } ['Ferriterium'] -- Calvaire ( 16 January 2021 ): 3.7873407720424193
+{ Album } ['Omegavortex'] -- Black Abomination Spawn ( 13 November 2020 ): 3.7853987087856145
+{ EP } ['JPEGMAFIA'] -- EP! ( 6 November 2020 ): 3.785186832238268
+{ Album } ['Gorillaz'] -- Song Machine, Season One ( 23 October 2020 ): 3.7847633961983815
+{ Album } ['Luedji Luna'] -- Bom mesmo é estar debaixo d'água ( 14 October 2020 ): 3.784491410453052
+{ Album } ['Nubya Garcia'] -- Source ( 21 August 2020 ): 3.7828631591967503
+{ Album } ['Gulch'] -- Impenetrable Cerebral Fortress ( 24 July 2020 ): 3.7820213498788253
+{ Album } ['ボリス'] -- No ( 3 July 2020 ): 3.7813910978636853
+{ Album } ['Material Girl'] -- Tangram ( 12 June 2020 ): 3.7807617920333367
+{ Album } ['Paradise Lost'] -- Obsidian ( 15 May 2020 ): 3.779924187984511
+{ EP } ['Life'] -- Demo Three ( 14 March 2020 ): 3.779763349018354
+{ Album } ['Slift'] -- Ummon ( 28 February 2020 ): 3.777629426316493
+{ EP } ['Hayki'] -- Kötü Adam (Ajna) ( 1 May 2020 ): 3.776926686778956
+{ EP } ['Soul Glo'] -- Songs to Yeet at the Sun ( 6 November 2020 ): 3.7744639233650714
+{ Album } ['DJ Metatron'] -- Loops of Infinity (A Rave Loveletter) ( 20 October 2020 ): 3.773951262434595
+{ Album } ['Eartheater'] -- Phoenix: Flames Are Dew Upon My Skin ( 2 October 2020 ): 3.773409122024919
+{ Album } ['Serpent Column'] -- Kathodos ( 30 September 2020 ): 3.7733489271661296
+{ Album } ['Napalm Death'] -- Throes of Joy in the Jaws of Defeatism ( 18 September 2020 ): 3.772987938382512
+{ Album } ['Skeletal Remains'] -- The Entombment of Chaos ( 11 September 2020 ): 3.7727775043418266
+{ Album } ['Mach-Hommy'] -- Mach's Hard Lemonade ( 8 August 2020 ): 3.7717568912115937
+{ Bootleg / Unauthorized } ['SOPHIE'] -- TRANSNATION ( 26 December 2020 ): 3.7703144283940633
+{ Album } ['Black Curse'] -- Endless Wound ( 24 April 2020 ): 3.7685908626139093
+{ Album } ['The Weeknd'] -- After Hours ( 20 March 2020 ): 3.767550744626706
+{ EP } ['Trhä'] -- novej kalhnjënno ( 3 November 2020 ): 3.7671650810659516
+{ Album } ['Julien Baker'] -- Little Oblivions ( 26 February 2021 ): 3.7671244652625315
+{ DJ Mix } ['DJ Sabrina the Teenage DJ'] -- DJ Sabrina the Teenage DJ's Dakota Style ( 8 February 2021 ): 3.766599078723602
+{ Album } ['The Ruins of Beverast'] -- The Thule Grimoires ( 5 February 2021 ): 3.7664880129323954
+{ Album } ['The Necks'] -- Three ( 3 February 2020 ): 3.766187700009295
+{ Album } ['Lunatic Soul'] -- Through Shaded Woods ( 13 November 2020 ): 3.7639516906055253
+{ Album } ['Abigor'] -- Totschläger (A Saintslayer's Songbook) ( 8 December 2020 ): 3.763805890342396
+{ Album } ['Benny the Butcher'] -- Burden of Proof ( 16 October 2020 ): 3.763109616605228
+{ Album } ['Matmos'] -- The Consuming Flame: Open Exercises in Group Form ( 21 August 2020 ): 3.7614305067367115
+{ Album } ['Faceless Burial'] -- Speciation ( 7 August 2020 ): 3.761011777424604
+{ Album } ['Girl Band'] -- Vicar Street Live ( 29 August 2020 ): 3.7609090201138495
+{ Mixtape } ['Illuminati Hotties'] -- FREE I.H: This Is Not the One You've Been Waiting For ( 17 July 2020 ): 3.7603844685616665
+{ Album } ['Hum'] -- Inlet ( 23 June 2020 ): 3.759668696810297
+{ Album } ['Keleketla!'] -- Keleketla! ( 12 June 2020 ): 3.7593410453362637
+{ EP } ['200 Stab Wounds'] -- Piles of Festering Decomposition ( 10 April 2020 ): 3.7574694608626715
+{ Album } ['Nine Inch Nails'] -- Ghosts V: Together ( 26 March 2020 ): 3.7570250899649578
+{ Album } ['Drown'] -- Subaqueous ( 28 February 2020 ): 3.7562264267339627
+{ EP } ['Christine and the Queens'] -- La vita nuova ( 27 February 2020 ): 3.756196876334267
+{ Album } ['Black Dresses'] -- Forever in Your Heart ( 14 February 2021 ): 3.75602915003819
+{ Album } ['Denzel Curry', 'Kenny Beats'] -- Unlocked ( 7 February 2020 ): 3.75560631384019
+{ Album } ['Your Old Droog'] -- Dump YOD: Krutoy Edition ( 4 December 2020 ): 3.7538590383015444
+{ Album } ['아버지'] -- Residue ( 21 December 2020 ): 3.7536687753441687
+{ Album } ['William Basinski'] -- Lamentations ( 13 November 2020 ): 3.7532281815154813
+{ EP } ['DJ Blackpower'] -- BLP2020: King of the Night ( 31 October 2020 ): 3.7528381239754567
+{ Album } ['Sun Ra Arkestra'] -- Swirling ( 30 October 2020 ): 3.752744122025766
+{ Mixtape } ['Magdalena Bay'] -- mini mix vol. 2 ( 20 November 2020 ): 3.752732271278167
+{ Album } ['Undeath'] -- Lesions of a Different Kind ( 23 October 2020 ): 3.7525982681853636
+{ Album } ['Jean Dawson'] -- Pixel Bath ( 23 October 2020 ): 3.7525982681853636
+{ Album } ['tricot'] -- 10 ( 21 October 2020 ): 3.752538325614095
+{ Album } ['Sturgill Simpson'] -- Cuttin' Grass Vol. 1: The Butcher Shoppe Sessions ( 16 October 2020 ): 3.7523885065864095
+{ Album } ['Crippled Black Phoenix'] -- Ellengæst ( 9 October 2020 ): 3.752178849690998
+{ Album } ['Kairon; IRSE!'] -- Polysomn ( 11 September 2020 ): 3.7513412685217027
+{ Album } ['Phoxjaw'] -- Royal Swan ( 3 July 2020 ): 3.749254629609886
+{ Album } ['Armand Hammer'] -- Shrines ( 5 June 2020 ): 3.7484228944460467
+{ Album } ['Backxwash'] -- God Has Nothing to Do With This Leave Him Out of It ( 30 May 2020 ): 3.7482448822783963
+{ Album } ['Rafael Anton Irisarri'] -- Peripeteia ( 22 May 2020 ): 3.7480076516764074
+{ Album } ['Wake'] -- Devouring Ruin ( 27 March 2020 ): 3.746350840273045
+{ Album } ['Irreversible Entanglements'] -- Who Sent You? ( 20 March 2020 ): 3.7461442063049635
+{ Album } ['dltzk'] -- Teen Week ( 26 February 2021 ): 3.744492838729732
+{ Album } ['Anthony1', 'Exodia', 'Sienna Sleep'] -- Ateriavia ( 4 December 2020 ): 3.7431337267635403
+{ Album } ['Pink Siifu', 'Fly Anakin'] -- FlySiifu's ( 13 November 2020 ): 3.7425046724254374
+{ Album } ['Oliver Coates'] -- Skins n Slime ( 16 October 2020 ): 3.7416673965675917
+{ Album } ['Deerhoof'] -- Love-Lore ( 28 September 2020 ): 3.7411300300376404
+{ Album } ['BbyMutha'] -- Muthaland ( 28 August 2020 ): 3.740206182190751
+{ Album } ['chelmico'] -- Maze ( 26 August 2020 ): 3.7401466492995863
+{ Album } ['Shackleton', 'Wacław Zimpel'] -- Primal Forms ( 31 July 2020 ): 3.739373495348735
+{ Album } ['Defeated Sanity'] -- The Sanguinary Impetus ( 24 July 2020 ): 3.739165583874533
+{ Album } ['Curren$y', 'Harry Fraud'] -- The Outrunners ( 24 July 2020 ): 3.739165583874533
+{ Album } ['Haken'] -- Virus ( 24 July 2020 ): 3.739165583874533
+{ Album } ['Hail Spirit Noir'] -- Eden in Reverse ( 19 June 2020 ): 3.7381275863788295
+{ EP } ['Ifernach'] -- Waqan ( 11 February 2020 ): 3.737785197242744
+{ EP } ['Fax Gang'] -- FxG3000 ( 19 March 2020 ): 3.735411510794318
+{ Album } ['Dan Deacon'] -- Mystic Familiar ( 31 January 2020 ): 3.7340015278059817
+{ Album } ['Hate Forest'] -- Hour of the Centaur ( 25 December 2020 ): 3.7330011543407067
+{ Album } ['Undergang'] -- Aldrig i livet ( 4 December 2020 ): 3.7324084152255357
+{ Album } ['Respire'] -- Black Line ( 4 December 2020 ): 3.7324084152255357
+{ Album } ['Mary Lattimore'] -- Silver Ladders ( 9 October 2020 ): 3.7307378276927636
+{ Album } ['Enslaved'] -- Utgard ( 2 October 2020 ): 3.730529472911
+{ Album } ['Greg Puciato'] -- Child Soldier: Creator of God ( 1 October 2020 ): 3.730499716436227
+{ Album } ['Anna von Hausswolff'] -- All Thoughts Fly ( 25 September 2020 ): 3.730321222172511
+{ DJ Mix } ['Helena Hauff'] -- Kern Vol. 5 ( 19 June 2020 ): 3.7296748606753543
+{ Album } ['Necrot'] -- Mortal ( 28 August 2020 ): 3.729489259032611
+{ Album } ['Tigran Hamasyan'] -- The Call Within ( 28 August 2020 ): 3.729489259032611
+{ Album } ['Atramentus'] -- Stygian ( 21 August 2020 ): 3.7292815280466547
+{ Album } ['Chance デラソウル'] -- Goodbye Future Funk ( 7 August 2020 ): 3.7288663776175563
+{ EP } ['Backxwash'] -- Stigmata ( 4 August 2020 ): 3.7287774708361314
+{ EP } ['Lamp of Murmuur'] -- The Burning Spears of Crimson Agony ( 26 March 2020 ): 3.7281940665139897
+{ Album } ['Bagdadski Vor'] -- Колхида (Kolhida) ( 7 July 2020 ): 3.727948593106348
+{ DJ Mix } ['Nicolás Jaar'] -- Against All Logic ( 27 January 2020 ): 3.727171734533764
+{ Album } ['Negativland'] -- The World Will Decide ( 13 November 2020 ): 3.7264623972539566
+{ Album } ['Wailin Storms'] -- Rattle ( 15 May 2020 ): 3.7263841853218405
+{ Album } ['Moses Sumney'] -- Græ ( 15 May 2020 ): 3.7263841853218405
+{ Album } ['Warbringer'] -- Weapons of Tomorrow ( 24 April 2020 ): 3.725765966447842
+{ Album } ['King Gizzard and the Lizard Wizard'] -- Chunky Shrapnel ( 24 April 2020 ): 3.7251740594739955
+{ Album } ['Monophonics'] -- It's Only Us ( 13 March 2020 ): 3.7245323179650227
+{ Album } ['Dogleg'] -- Melee ( 13 March 2020 ): 3.7245323179650227
+{ Album } ['Chris Christodoulou'] -- Risk of Rain 2 ( 11 August 2020 ): 3.7243970809399434
+{ Bootleg / Unauthorized } ['Autechre'] -- AE_LIVE 2008-04-04 Echoplex (Replication by Ios & Digit) ( 4 December 2020 ): 3.7242452552590155
+{ Album } ['Døves'] -- Ultraclub4k ( 29 February 2020 ): 3.7241512272962893
+{ Album } ['36', '扎克'] -- Stasis Sounds for Long​-​Distance Space Travel ( 31 January 2020 ): 3.7233023830271677
+{ Album } ['Rob Mazurek', 'Exploding Star Orchestra'] -- Dimensional Stardust ( 20 November 2020 ): 3.722013931788533
+{ EP } ['Wake'] -- Confluence ( 20 October 2020 ): 3.7214680918967464
+{ Album } ['King Gizzard & The Lizard Wizard'] -- K.G. ( 20 November 2020 ): 3.721266033421503
+{ Album } ['Nothing'] -- The Great Dismal ( 30 October 2020 ): 3.7206412076517448
+{ Album } ['Adrianne Lenker'] -- Instrumentals ( 22 October 2020 ): 3.7204034247239304
+{ Album } ['Touché Amoré'] -- Lament ( 9 October 2020 ): 3.7200173166936468
+{ Album } ['Fish'] -- Weltschmerz ( 25 September 2020 ): 3.7199653963851285
+{ Album } ['Mateus Aleluia'] -- Olorum ( 24 July 2020 ): 3.7199254200145924
+{ Album } ['冥丁'] -- Kofū / 古風 ( 27 September 2020 ): 3.7196612269647193
+{ Album } ['Svalbard'] -- When I Die, Will I Get Better? ( 25 September 2020 ): 3.7196019083156937
+{ EP } ['Everglow'] -- -77.82X-78.29 ( 21 September 2020 ): 3.719483296416132
+{ Album } ['John Zorn'] -- Baphomet ( 26 June 2020 ): 3.71943667904607
+{ Album } ['Chuck Salamone', 'Mason Lindroth'] -- Hylics 2 OST ( 22 June 2020 ): 3.7193669419401516
+{ Album } ['Avantdale Bowling Club'] -- Avantdale Bowling Club "Live" ( 17 April 2020 ): 3.719041555751701
+{ Album } ['Rick Wakeman'] -- The Red Planet ( 28 June 2020 ): 3.7184085875558783
+{ Bootleg / Unauthorized } ['Yabujin'] -- Early Works Bootleg ( 30 April 2020 ): 3.718388803829684
+{ Album } ['The Reticent'] -- The Oubliette ( 25 September 2020 ): 3.718238403573794
+{ EP } ['Wędrowcy~Tułacze~Zbiegi'] -- Berliner Vulkan ( 26 June 2020 ): 3.7169118549141977
+{ EP } ['Jockstrap'] -- Wicked City ( 19 June 2020 ): 3.7167056517864006
+{ Album } ['GoGo Penguin'] -- GoGo Penguin ( 12 June 2020 ): 3.716499551942119
+{ Album } ['Killah Priest'] -- Rocket to Nebula ( 31 May 2020 ): 3.716146478127602
+{ EP } ['Sewerslvt'] -- IRLY ( 30 May 2020 ): 3.7161170690017244
+{ Album } ["Caligula's Horse"] -- Rise Radiant ( 22 May 2020 ): 3.7158818718048954
+{ EP } ['Yabujin'] -- Baroque ( 18 May 2020 ): 3.7157643237373628
+{ Album } ['Green Carnation'] -- Leaves of Yesteryear ( 8 May 2020 ): 3.715470600904649
+{ Album } ['Nine Inch Nails'] -- Ghosts VI: Locusts ( 26 March 2020 ): 3.7142099892246168
+{ EP } ['春ねむり'] -- Lovetheism ( 20 March 2020 ): 3.7140343988223496
+{ Album } ['Triángulo de Amor Bizarro'] -- Triángulo de Amor Bizarro ( 20 March 2020 ): 3.7140343988223496
+{ Album } ['C. Tangana'] -- El madrileño ( 26 February 2021 ): 3.7134617235921255
+{ Album } ['Lowrider'] -- Refractions ( 21 February 2020 ): 3.713215976118804
+{ EP } ['Lingua Ignota'] -- Agnus Dei ( 5 February 2021 ): 3.712834337534498
+{ Album } ['Freddie Gibbs & Madlib'] -- Bandana Beats ( 31 January 2020 ): 3.712603238248354
+{ Album } ['jonatan leandoer96'] -- Blodhundar & Lullabies ( 21 December 2020 ): 3.7114633329276217
+{ Album } ['Countless Skies'] -- Glow ( 6 November 2020 ): 3.7114002288090164
+{ Album } ['Emma Ruth Rundle', 'Thou'] -- May Our Chambers Be Full ( 30 October 2020 ): 3.709918898695976
+{ EP } ['Bring Me the Horizon'] -- Post Human: Survival Horror ( 30 October 2020 ): 3.709918898695976
+{ EP } ['Zeal and Ardor'] -- Wake of a Nation ( 23 October 2020 ): 3.7097114308346737
+{ Mixtape } ['Oklou'] -- Galore ( 24 September 2020 ): 3.708853023773717
+{ Album } ['The Flaming Lips'] -- American Head ( 11 September 2020 ): 3.7084687968814545
+{ Album } ['Kelly Lee Owens'] -- Inner Song ( 28 August 2020 ): 3.7080554127163317
+{ Album } ['MIKE'] -- Weight of the World ( 21 June 2020 ): 3.706053419375083
+{ Album } ['Nuvolascura'] -- As We Suffer From Memory and Imagination ( 19 June 2020 ): 3.705994684490186
+{ Album } ['Cryptic Shift'] -- Visitations From Enceladus ( 4 May 2020 ): 3.704646101034922
+{ Album } ['Cirith Ungol'] -- Forever Black ( 24 April 2020 ): 3.7043535183648086
+{ Album } ['АукцЫон'] -- Мечты ( 24 April 2020 ): 3.7043535183648086
+{ EP } ['Magdalena Bay'] -- A Little Rhythm and a Wicked Feeling ( 13 March 2020 ): 3.7031269598157985
+{ Album } ['Afterbirth'] -- Four Dimensional Flesh ( 13 March 2020 ): 3.7031269598157985
+{ Album } ['Fluisteraars'] -- Bloem ( 28 February 2020 ): 3.7027189277776387
+{ Album } ['Osees'] -- Levitation Sessions 9.26.2020 ( 26 September 2020 ): 3.702653207859497
+{ EP } ['Jadasea', 'MIKE'] -- Old Earth ( 24 February 2020 ): 3.702602422512551
+{ Album } ['King Krule'] -- Man Alive! ( 21 February 2020 ): 3.7025150655248016
+{ Album } ['Epica'] -- Omega ( 26 February 2021 ): 3.702033253118217
+{ EP } ['Emma Ruth Rundle', 'Thou'] -- The Helm of Sorrow ( 15 January 2021 ): 3.7014789629710427
+{ Album } ['Shame'] -- Drunk Tank Pink ( 15 January 2021 ): 3.7014789629710427
+{ Album } ['ポルカドットスティングレイ'] -- 何者 (Nanimono) ( 16 December 2020 ): 3.701339758232512
+{ Album } ['Mooncitadel'] -- Night's Scarlet Symphonies ( 11 December 2020 ): 3.7010256795061527
+{ EP } ['Sunami', 'Gulch'] -- Split ( 1 March 2021 ): 3.7007083072237412
+{ Album } ['Sodom'] -- Genesis XIX ( 27 November 2020 ): 3.7000250957138374
+{ Album } ['Dark Tranquillity'] -- Moment ( 20 November 2020 ): 3.6998178142086986
+{ Album } ['Kali Uchis'] -- Sin miedo (del amor y otros demonios) ∞ ( 18 November 2020 ): 3.6997586099076667
+{ Album } ['Kevin & the Bikes'] -- Ironic Songs ( 14 November 2020 ): 3.699640226615796
+{ Album } ['Ana Roxanne'] -- Because of a Flower ( 13 November 2020 ): 3.6996106360652603
+{ Album } ['21 Savage', 'Metro Boomin'] -- Savage Mode II ( 2 October 2020 ): 3.69836973607556
+{ EP } ['Almyrkvi', 'The Ruins of Beverast'] -- Almyrkvi / The Ruins of Beverast ( 29 May 2020 ): 3.698230576431121
+{ Album } ['Thurston Moore'] -- By the Fire ( 25 September 2020 ): 3.6981632806020586
+{ Album } ['All Them Witches'] -- Nothing as the Ideal ( 4 September 2020 ): 3.6975445327529233
+{ Album } ['Nicolás Jaar'] -- Telas ( 17 July 2020 ): 3.6961043921759975
+{ Album } ['Pyrrhon'] -- Abscess Time ( 26 June 2020 ): 3.695488731831119
+{ Album } ['Vile Creature'] -- Glory, Glory! Apathy Took Helm! ( 19 June 2020 ): 3.6952837171939716
+{ Album } ['Alva Noto'] -- Xerrox Vol.4 ( 19 June 2020 ): 3.6952837171939716
+{ Album } ['Bob Dylan'] -- Rough and Rowdy Ways ( 19 June 2020 ): 3.6952837171939716
+{ Album } ['Chloe x Halle'] -- Ungodly Hour ( 12 June 2020 ): 3.695078805245046
+{ Album } ['Cosmic Putrefaction'] -- The Horizons Towards Which Splendour Withers ( 22 May 2020 ): 3.6944646852238874
+{ Album } ['Carly Rae Jepsen'] -- Dedicated Side B ( 21 May 2020 ): 3.6944354644450432
+{ Album } ['Dua Lipa'] -- Future Nostalgia ( 27 March 2020 ): 3.692831542554859
+{ Album } ['Mamaleek'] -- Come & See ( 26 March 2020 ): 3.692802438854446
+{ Album } ['Malokarpatan'] -- Krupinské ohne (The Fires of Krupina) ( 20 March 2020 ): 3.692627860500607
+{ Album } ['ShrapKnel'] -- ShrapKnel ( 13 March 2020 ): 3.6924242807411867
+{ Album } ['Danny L Harle'] -- Harlecore ( 26 February 2021 ): 3.6919966269239626
+{ Album } ['Evgeni Koroliov'] -- Partitas Part 1: BWV 825, 826, 830 ( 15 January 2021 ): 3.6918916910878536
+{ Album } ['Naked Flames'] -- All Singing, All Dancing ( 23 February 2020 ): 3.691872222519398
+{ EP } ['새소년'] -- 비적응 ( 18 February 2020 ): 3.6917270691866317
+{ EP } ['Fleshwater'] -- Demo2020 ( 14 February 2020 ): 3.6916109840496913
+{ Album } ['Boldy James', 'The Alchemist'] -- The Price of Tea in China ( 7 February 2020 ): 3.691407915313008
+{ Album } ['Black Wing'] -- No Moon ( 11 December 2020 ): 3.6897140559791937
+{ EP } ['Phoebe Bridgers'] -- If We Make It Through December ( 23 November 2020 ): 3.6891822694188745
+{ Album } ['Bruce Springsteen'] -- Letter to You ( 23 October 2020 ): 3.688268012159329
+{ Album } ['Sarah Davachi'] -- Cantus, Descant ( 18 September 2020 ): 3.687238212510182
+{ Album } ['T€∆M M£K4NØ'] -- Classic_Project_2000​.​3gp ( 6 August 2020 ): 3.685976547492869
+{ Album } ['Dos Monos'] -- Dos Siki ( 24 July 2020 ): 3.6855958763691667
+{ Album } ['VoidCeremony'] -- Entropic Reflections Continuum: Dimensional Unravel ( 26 June 2020 ): 3.6847771702895793
+{ Album } ['Pottery'] -- Welcome to Bobby's Motel ( 26 June 2020 ): 3.6847771702895793
+{ Album } ['Sault'] -- Untitled (Black Is) ( 19 June 2020 ): 3.684572749897757
+{ Album } ['Ulthar'] -- Providence ( 12 June 2020 ): 3.6843684318965093
+{ Album } ['END'] -- Splinters From an Ever-Changing Face ( 5 June 2020 ): 3.6841642162555432
+{ EP } ['NOFX'] -- The Decline Live at Red Rocks ( 10 April 2020 ): 3.6839885101725813
+{ Album } ['Died'] -- Less Life ( 29 May 2020 ): 3.6839601029445856
+{ Album } ['$ilkMoney'] -- Attack of the Future Shocked, Flesh Covered, Meatbags of the 85 ( 20 May 2020 ): 3.68369782185856
+{ Album } ['Jason Isbell and The 400 Unit'] -- Reunions ( 15 May 2020 ): 3.683552183191704
+{ Album } ['Afsky'] -- Ofte jeg drømmer mig død ( 12 May 2020 ): 3.6834648250304936
+{ Album } ['...And Oceans'] -- Cosmic World Mother ( 8 May 2020 ): 3.683348376689335
+{ Album } ['Couch Slut'] -- Take a Chance on Rock 'n' Roll ( 1 May 2020 ): 3.683144672396083
+{ Album } ['Lido Pimienta'] -- Miss Colombia ( 17 April 2020 ): 3.682737570316258
+{ Album } ['大森靖子'] -- Kintsugi ( 9 December 2020 ): 3.6808744555297888
+{ Album } ['Makaya McCraven', 'Gil Scott-Heron'] -- We're New Again: A Reimagining by Makaya McCraven ( 7 February 2020 ): 3.680708182225144
+{ Album } ['Madlib'] -- Sound Ancestors ( 29 January 2021 ): 3.6804350231074867
+{ Album } ['Black Sheep Wall'] -- Songs for the Enamel Queen ( 26 February 2021 ): 3.6803662682956744
+{ Album } ['Wardruna'] -- Kvitravn ( 22 January 2021 ): 3.680228016989297
+{ Album } ['Grima'] -- Rotten Garden ( 22 January 2021 ): 3.680228016989297
+{ Bootleg / Unauthorized } ['Bladee', 'Ecco2K'] -- Remote Utopias ( 2 May 2020 ): 3.679359061405122
+{ Album } ['Will Wood'] -- The Normal Album ( 10 July 2020 ): 3.6782360095827547
+{ Album } ['Gustavo Santaolalla'] -- The Last of Us Part II ( 19 June 2020 ): 3.677873820943752
+{ Album } ['Anaal Nathrakh'] -- Endarkenment ( 2 October 2020 ): 3.6769299115186005
+{ Album } ['1 800 PAIN'] -- Best House on a Bad Block ( 11 September 2020 ): 3.6763144431512687
+{ Album } ['Vothana'] -- Biệt động quân / Commando ( 1 July 2020 ): 3.676110441569443
+{ Album } ['Logos'] -- Sadako e le mille gru di carta ( 2 July 2020 ): 3.675830779937618
+{ Album } ['Young Jesus'] -- Welcome to Conceptual Beach ( 14 August 2020 ): 3.6754952529168756
+{ Album } ['A. G. Cook'] -- 7G ( 12 August 2020 ): 3.6754368020059993
+{ Album } ['Fontaines D.C.'] -- A Hero's Death ( 31 July 2020 ): 3.6750862719329973
+{ Album } ['Liv.e'] -- Couldn't Wait to Tell You​... ( 31 July 2020 ): 3.6750862719329973
+{ Album } ['Jon Hassell'] -- Seeing Through Sound (Pentimento Volume Two) ( 24 July 2020 ): 3.6748819348680937
+{ EP } ['yung hi c ^_^'] -- No More Heroes Volume One ( 5 July 2020 ): 3.674327820999134
+{ Album } ['A.A. Williams'] -- Forever Blue ( 3 July 2020 ): 3.6742695370176883
+{ Album } ['Gia Margaret'] -- Mia Gargaret ( 12 June 2020 ): 3.6736580585479732
+{ Album } ['Preservation'] -- Eastern Medicine, Western Illness ( 29 May 2020 ): 3.6732509165988168
+{ Album } ['Nation of Language'] -- Introduction, Presence ( 22 May 2020 ): 3.6730474986428794
+{ Album } ['King Gizzard & The Lizard Wizard'] -- L.W. ( 26 February 2021 ): 3.6705315302558
+{ Album } ['Cindy Lee'] -- What's Tonight to Eternity ( 14 February 2020 ): 3.670210340663896
+{ EP } ['iANO'] -- SOCND 5: End of Annihilation ( 16 November 2020 ): 3.6701057783036526
+{ Album } ['Machine Girl'] -- MG Demo Disc ( 9 February 2020 ): 3.670066122069862
+{ EP } ['High Cee'] -- PRETTY D3M0N R0KKSTARZZ ( 7 February 2020 ): 3.6700084491372804
+{ Album } ['Envy'] -- The Fallen Crimson ( 5 February 2020 ): 3.669950784492244
+{ Album } ['Portrayal of Guilt'] -- We Are Always Alone ( 29 January 2021 ): 3.6697048918447823
+{ Album } ['Exhalants'] -- Atonement ( 11 September 2020 ): 3.668961673403437
+{ Album } ['Panzerfaust'] -- The Suns of Perdition - Chapter II: Render Unto Eden ( 28 August 2020 ): 3.6687197025375577
+{ Album } ['Darkside'] -- Psychic Live July 17 2014 ( 5 November 2020 ): 3.6678686811003782
+{ Album } ['Kylie'] -- Disco ( 6 November 2020 ): 3.6672348346331094
+{ Album } ['Oneohtrix Point Never'] -- Magic Oneohtrix Point Never ( 30 October 2020 ): 3.667029662872901
+{ Album } ['Ela Minus'] -- Acts of Rebellion ( 23 October 2020 ): 3.666824593483984
+{ Album } ['METZ'] -- Atlas Vending ( 9 October 2020 ): 3.6664147616980607
+{ Album } ['Neil Cicierega'] -- Mouth Dreams ( 30 September 2020 ): 3.666151514462546
+{ Album } ['Uniform'] -- Shame ( 11 September 2020 ): 3.6655963252412063
+{ Album } ['Yelle'] -- L'ère du verseau ( 4 September 2020 ): 3.6653919715985497
+{ EP } ['Your Arms Are My Cocoon'] -- Your Arms Are My Cocoon ( 2 September 2020 ): 3.665333603603014
+{ Album } ['Black Crown Initiate'] -- Violent Portraits of Doomed Escape ( 7 August 2020 ): 3.6645755780034603
+{ Album } ['Lauren Bousfield'] -- Palimpsest ( 31 July 2020 ): 3.664371734697041
+{ Album } ['Bell Witch', 'Aerial Ruin'] -- Stygian Bough Volume I ( 26 June 2020 ): 3.6633540472065005
+{ Album } ['Kate NV'] -- Room for the Moon ( 12 June 2020 ): 3.6629476851994367
+{ Album } ['Owen Pallett'] -- Island ( 22 May 2020 ): 3.662338905352375
+{ Album } ['Aksak Maboul'] -- Figures ( 22 May 2020 ): 3.662338905352375
+{ Album } ["Jim O'Rourke"] -- Shutting Down Here ( 22 May 2020 ): 3.662338905352375
+{ Album } ['Knoll'] -- Interstice ( 26 February 2021 ): 3.661961160453944
+{ Album } ['Okkyung Lee'] -- Yeo​-​Neun ( 8 May 2020 ): 3.6619335605457923
+{ Album } ['Pure Reason Revolution'] -- Eupnea ( 3 April 2020 ): 3.6609219762650898
+{ Album } ['NNAMDÏ'] -- Brat ( 3 April 2020 ): 3.6609219762650898
+{ Album } ['Horse Lords'] -- The Common Task ( 13 March 2020 ): 3.6603162435173497
+{ Album } ['Ramper'] -- Nuestros mejores deseos ( 6 March 2020 ): 3.6601145353921583
+{ Album } ['Hot Mulligan'] -- You'll Be Fine ( 6 March 2020 ): 3.6601145353921583
+{ Album } ['Spanish Love Songs'] -- Brave Faces Everyone ( 7 February 2020 ): 3.6593087160494164
+{ Album } ['The Weather Station'] -- Ignorance ( 5 February 2021 ): 3.6591806621366008
+{ Album } ['Psychedelic Porn Crumpets'] -- Shyga! the Sunlight Mound ( 5 February 2021 ): 3.6591806621366008
+{ Album } ['Bütcher'] -- 666 Goats Carry My Chariot ( 31 January 2020 ): 3.6591075143542855
+{ Album } ['Sa-Roc'] -- The Sharecropper's Daughter ( 2 October 2020 ): 3.658959775593395
+{ EP } ['Naked Flames'] -- Binc Rinse Repeat ( 22 January 2021 ): 3.658768961496648
+{ Album } ['Sunken'] -- Livslede ( 18 September 2020 ): 3.6587181124863375
+{ Album } ['Marlowe'] -- Marlowe 2 ( 7 August 2020 ): 3.6579946260319343
+{ Album } ['Various Artists'] -- Ciao, 2020! ( 31 December 2020 ): 3.6566660558583384
+{ Album } ['Ólafur Arnalds'] -- Some Kind of Peace ( 6 November 2020 ): 3.6565119257599132
+{ Album } ['King Gizzard and the Lizard Wizard'] -- Live in Asheville '19 ( 1 October 2020 ): 3.656156711369208
+{ Album } ['Osees'] -- Protean Threat ( 18 September 2020 ): 3.6550820653080587
+{ Mixtape } ['SpaceGhostPurrp'] -- Produced by SpaceGhostPurrp ( 1 September 2020 ): 3.6550106774028754
+{ Album } ['Pendragon'] -- Love Over Fear ( 14 February 2020 ): 3.6550043149302103
+{ Bootleg / Unauthorized } ['black midi', 'Black Country, New Road'] -- Black Midi, New Road ( 10 December 2020 ): 3.653122701757773
+{ EP } ['Stormkeep'] -- Galdrum ( 20 November 2020 ): 3.653099255259495
+{ Album } ['Nihiloxica'] -- Kaloli ( 12 June 2020 ): 3.6522373118509006
+{ Album } ['Moodymann'] -- Taken Away ( 21 May 2020 ): 3.651601430074666
+{ Album } ['Kawai Sprite'] -- Friday Night Funkin' OST, Vol. 1 ( 25 December 2020 ): 3.6514186001950235
+{ Mixtape } ['Sickboyrari'] -- Nokia Talk 2002 ( 1 May 2020 ): 3.6510242246716986
+{ Album } ['Elysia Crampton'] -- ORCORARA 2010 ( 1 May 2020 ): 3.6510242246716986
+{ Album } ['Greg Puciato'] -- Fuck Content ( 18 December 2020 ): 3.650479156117132
+{ Album } ['Caustic Wound'] -- Death Posture ( 10 April 2020 ): 3.6504190488722825
+{ Album } ['Ayreon'] -- Electric Castle Live and Other Tales ( 27 March 2020 ): 3.650255824572332
+{ Album } ['KeiyaA'] -- Forever, Ya Girl ( 27 March 2020 ): 3.6500161043803097
+{ Album } ['Nicolás Jaar'] -- Cenizas ( 27 March 2020 ): 3.6500161043803097
+{ Album } ['Demoniac'] -- So It Goes ( 15 October 2020 ): 3.6499868800467
+{ Album } ['The Garden'] -- Kiss My Super Bowl Ring ( 13 March 2020 ): 3.649613564442738
+{ Album } ['Auðn'] -- Vökudraumsins fangi ( 30 October 2020 ): 3.6490771573289216
+{ Album } ['Mors Principium Est'] -- Seven ( 23 October 2020 ): 3.648956386847593
+{ Album } ['Ustad Saami'] -- Pakistan Is for the Peaceful ( 9 October 2020 ): 3.648715033419779
+{ Album } ['slowthai'] -- Tyron ( 12 February 2021 ): 3.648655326993864
+{ Album } ['Lonker See'] -- Hamza ( 7 February 2020 ): 3.648608982961553
+{ Album } ['Cytotoxin'] -- Nuklearth ( 21 August 2020 ): 3.6478722643202333
+{ Album } ['Power Trip'] -- Live in Seattle 05​.​28​.​2018 ( 11 June 2020 ): 3.646985505800466
+{ Album } ['Serment'] -- Chante, ô flamme de la liberté ( 24 June 2020 ): 3.6468786528703596
+{ Album } ['Pharmacist'] -- Medical Renditions of Grinding Decomposition ( 14 August 2020 ): 3.645910586697764
+{ Album } ['Osees'] -- Metamorphosed ( 16 October 2020 ): 3.6451774063982265
+{ EP } ['NIMBIFER'] -- Demo II ( 31 January 2020 ): 3.644413326971543
+{ Album } ['Redveil'] -- Niagara ( 25 August 2020 ): 3.6436668803859105
+{ Mixtape } ['Actress'] -- 88 ( 16 July 2020 ): 3.64250874891057
+{ Album } ['Ensiferum'] -- Thalassic ( 10 July 2020 ): 3.6423353146642845
+{ Album } ['Haim'] -- Women in Music Pt. III ( 26 June 2020 ): 3.6419309241234212
+{ Bootleg / Unauthorized } ['Laura Les'] -- Laura Les @ A2B2 ( 14 November 2020 ): 3.640712855795533
+{ Album } ['Fire!'] -- Defeat ( 12 February 2021 ): 3.6405243600532615
+{ Album } ['Testament'] -- Titans of Creation ( 3 April 2020 ): 3.639513075819095
+{ Mixtape } ['Reptilian Club Boys'] -- #RockOutGang ( 15 March 2020 ): 3.638968197748066
+{ Album } ['Miasmatic Necrosis'] -- Apex Profane ( 31 October 2020 ): 3.6387276698606295
+{ Album } ["Mary Halvorson's Code Girl"] -- Artlessly Falling ( 30 October 2020 ): 3.6387104608592367
+{ Album } ['Rubio'] -- Mango negro ( 15 October 2020 ): 3.6384524785120154
+{ Album } ['Bambara'] -- Stray ( 14 February 2020 ): 3.6381093755852025
+{ Album } ['Loathe'] -- I Let It In and It Took Everything ( 7 February 2020 ): 3.637909249873689
+{ Album } ['HMLTD'] -- West of Eden ( 7 February 2020 ): 3.637909249873689
+{ Album } ['María José Llergo'] -- Sanación ( 31 January 2020 ): 3.637709224796658
+{ Album } ['Pet Shimmers'] -- Face Down in Meta ( 31 January 2020 ): 3.637709224796658
+{ Album } ['下山'] -- 狂 (Klue) ( 29 January 2020 ): 3.6376520932543963
+{ Album } ['Vulkan'] -- Technatura ( 2 July 2020 ): 3.6366546088864244
+{ EP } ['Ada Rook'] -- Separated From Her Twin, a Dying Android Arrives on a Mysterious Island. ( 23 November 2020 ): 3.6355604341075543
+{ Album } ['Anna Högberg Attack'] -- Lena ( 25 April 2020 ): 3.63549773746197
+{ Album } ['Witches Hammer'] -- Damnation Is My Salvation ( 15 April 2020 ): 3.6353281033556493
+{ Album } ['Nekrovault'] -- Totenzug: Festering Peregrination ( 27 March 2020 ): 3.6350061472553223
+{ Album } ['Rodeoglo'] -- BLVCKHEVRT ( 21 October 2020 ): 3.6346014068090806
+{ Album } ['Autechre'] -- SIGN ( 16 October 2020 ): 3.6344562963794083
+{ EP } ['Anhedonist', 'Spectral Voice'] -- Abject Darkness / ​Ineffable Winds ( 12 February 2020 ): 3.634262317855749
+{ EP } ['The Phantasy'] -- Ibiza Pt. II ( 20 October 2020 ): 3.6322715022605716
+{ Album } ['The Beths'] -- Jump Rope Gazers ( 10 July 2020 ): 3.6316225637388015
+{ Album } ['Julianna Barwick'] -- Healing Is a Miracle ( 10 July 2020 ): 3.6316225637388015
+{ Album } ['Arca'] -- KiCk i ( 26 June 2020 ): 3.631219362581882
+{ Album } ['Kahlil Blu'] -- Dog ( 19 June 2020 ): 3.631017913416685
+{ Album } ['Protest the Hero'] -- Palimpsest ( 18 June 2020 ): 3.6309891432021364
+{ Album } ['bliss3three'] -- C3L3STIAL天の ( 31 May 2020 ): 3.630471631369617
+{ EP } ['Pilotredsky'] -- Medallion EP ( 29 January 2021 ): 3.6299105219532937
+{ Album } ['Moor Mother', 'Mental Jewelry'] -- True Opera ( 20 April 2020 ): 3.629295342254352
+{ DJ Mix } ['Skylar Spence'] -- Alive 2020 ( 26 August 2020 ): 3.629171359043
+{ Album } ['Knxwledge'] -- 1988 ( 27 March 2020 ): 3.628608385293035
+{ Album } ['Zebra Katz'] -- Less Is Moor ( 20 March 2020 ): 3.628408245535379
+{ Album } ['Myrkur'] -- Folkesange ( 20 March 2020 ): 3.628408245535379
+{ Album } ['Okuden Quartet'] -- Every Dog Has Its Day but It Doesn't Matter Because Fat Cat Is Getting Fatter ( 31 July 2020 ): 3.6280423277001694
+{ Album } ['Acetantina'] -- Temple of Null ( 30 January 2020 ): 3.626981597240169
+{ EP } ['Remi Wolf'] -- I'm Allergic to Dogs! ( 24 June 2020 ): 3.6261577514335963
+{ Album } ['Yerin Baek'] -- Tellusboutyourself ( 10 December 2020 ): 3.625329532280605
+{ Album } ['Helena Deland'] -- Someone New ( 16 October 2020 ): 3.62373518636059
+{ Album } ['Jay Electronica'] -- Act II: The Patents of Nobility (The Turn) ( 5 October 2020 ): 3.6234170667114283
+{ Album } ['Sufjan Stevens'] -- The Ascension ( 25 September 2020 ): 3.6231280836043354
+{ Album } ['Magenta'] -- Masters of Illusion ( 1 July 2020 ): 3.623016490768429
+{ Album } ['Sprain'] -- As Lost Through Collision ( 4 September 2020 ): 3.622521890059385
+{ Album } ['Lobsterfight'] -- pink, black, and orange in the corners. ( 31 August 2020 ): 3.6224065276403046
+{ Album } ['Samia'] -- The Baby ( 28 August 2020 ): 3.622320027451214
+{ Album } ['Pain of Salvation'] -- Panther ( 28 August 2020 ): 3.622320027451214
+{ EP } ['Mortiferum', 'Hyperdontia'] -- Mortiferum / Hyperdontia ( 7 December 2020 ): 3.62197941474363
+{ Bootleg / Unauthorized } ['James Ferraro'] -- Deleted Schemes ( 15 December 2020 ): 3.6200085283651955
+{ Album } ['StarGazer'] -- Psychic Secretions ( 15 February 2021 ): 3.619832367242431
+{ Album } ['RAY'] -- Pink ( 23 May 2020 ): 3.619533162134565
+{ Bootleg / Unauthorized } ['100 Gecs'] -- Lavapalooza ( 15 August 2020 ): 3.618131929060656
+{ Mixtape } ['That Kid'] -- Crush ( 31 March 2020 ): 3.6180185989713967
+{ Bootleg / Unauthorized } ['Mac Miller'] -- Balloonerism ( 2 July 2020 ): 3.6179685248410984
+{ Album } ['Necrophobic'] -- Dawn of the Damned ( 9 October 2020 ): 3.6176180302940426
+{ Album } ['Gorephilia'] -- In the Eye of Nothing ( 2 October 2020 ): 3.617498475020099
+{ Album } ['Moses Sumney'] -- Græ: Part 1 ( 21 February 2020 ): 3.6169077807727827
+{ Album } ['Dreamcatcher'] -- Dystopia: The Tree of Language ( 18 February 2020 ): 3.6168224619857434
+{ Album } ['Unleash the Archers'] -- Abyss ( 21 August 2020 ): 3.616782443885686
+{ Album } ['Beach Bunny'] -- Honeymoon ( 14 February 2020 ): 3.6167087321994074
+{ Album } ['Conway', 'Big Ghost Ltd.'] -- If It Bleeds It Can Be Killed ( 5 February 2021 ): 3.616257721818283
+{ Album } ['Airbag'] -- A Day at the Beach ( 19 June 2020 ): 3.6157125732658297
+{ Album } ["Gard Nilssen's Supersonic Orchestra"] -- If You Listen Carefully the Music is Yours ( 7 February 2020 ): 3.615486330430623
+{ Album } ['Solicitor'] -- Spectral Devastation ( 24 April 2020 ): 3.614765778221199
+{ DJ Mix } ['Conducta'] -- The Kiwi Sound ( 6 March 2020 ): 3.6145291393736763
+{ EP } ['Mourning Beloveth', 'The Ruins of Beverast'] -- Don't Walk on the Mass Graves ( 27 March 2020 ): 3.6142938615159763
+{ EP } ['PUP'] -- This Place Sucks Ass ( 23 October 2020 ): 3.6132160467956216
+{ Album } ['Vatican Shadow'] -- Persian Pillars of the Gasoline Era ( 18 September 2020 ): 3.6122072023718936
+{ Album } ['Zora Jones'] -- Ten Billion Angels ( 8 September 2020 ): 3.61191942364508
+{ Album } ['Declan McKenna'] -- Zeros ( 4 September 2020 ): 3.6118043696745943
+{ Album } ['Louis Cole'] -- Live 2019 ( 6 July 2020 ): 3.610530886769527
+{ Album } ['Owen'] -- The Avalanche ( 19 June 2020 ): 3.6095959788242564
+{ EP } ['Sewerslvt'] -- Cyberia Lyr1+2=3 ( 17 October 2020 ): 3.609297699898599
+{ Album } ['Men I Trust'] -- Forever Live Sessions ( 9 July 2020 ): 3.6085279787223175
+{ EP } ['LazyGod', "Cartier'GOD"] -- VaporDrip ( 5 May 2020 ): 3.608310982578896
+{ Album } ['The Soft Pink Truth'] -- Shall We Go On Sinning So That Grace May Increase? ( 1 May 2020 ): 3.608196961039186
+{ Album } ['Armored Saint'] -- Punching the Sky ( 23 October 2020 ): 3.607490973360689
+{ Album } ['Matt Elliott'] -- Farewell to All We Know ( 27 March 2020 ): 3.6072006662057605
+{ Album } ['Warp Chamber'] -- Implements of Excruciation ( 27 March 2020 ): 3.6072006662057605
+{ Album } ['Lyra Pramuk'] -- Fountain ( 20 March 2020 ): 3.607001707213636
+{ Album } ['Proscription'] -- Conduit ( 24 September 2020 ): 3.6069969824179986
+{ Album } ['Finntroll'] -- Vredesvävd ( 18 September 2020 ): 3.6068949097599017
+{ Album } ['Porridge Radio'] -- Every Bad ( 13 March 2020 ): 3.6068028481442895
+{ EP } ['Disclosure'] -- Ecstasy ( 28 February 2020 ): 3.606405429656255
+{ Album } ['Vladislav Delay'] -- Rakka ( 28 February 2020 ): 3.606405429656255
+{ Album } ['Rav', 'Kill Bill', 'Scuare'] -- SKIN ( 26 February 2020 ): 3.6063486881910602
+{ Album } ['Nils Frahm'] -- Tripping With Nils Frahm ( 3 December 2020 ): 3.605688264494497
+{ Album } ['The Body'] -- I've Seen All I Need to See ( 29 January 2021 ): 3.605324104268558
+{ Album } ['Arlo Parks'] -- Collapsed in Sunbeams ( 29 January 2021 ): 3.605324104268558
+{ Album } ['Steve Earle & The Dukes'] -- Ghosts of West Virginia ( 22 May 2020 ): 3.6048798318042907
+{ EP } ['Keith Rowe'] -- An Assemblage / Construct for 45 Voices ( 10 April 2020 ): 3.604172877928024
+{ Album } ['Liturgy'] -- Origin of the Alimonies ( 20 November 2020 ): 3.60330082775108
+{ EP } ["Jack Stauber's Micropop"] -- Dinner Is Not Over / There's Something Happening / Keyman / Cupid ( 7 February 2020 ): 3.603116596674368
+{ Mixtape } ['Bree Runway'] -- 2000And4Eva ( 6 November 2020 ): 3.602897381393932
+{ Album } ['Open Mike Eagle'] -- Anime, Trauma and Divorce ( 16 October 2020 ): 3.602292966322953
+{ EP } ['James Blake'] -- Before ( 14 October 2020 ): 3.6022354501762757
+{ Album } ['Brother Firetribe'] -- Feel the Burn ( 18 September 2020 ): 3.6004713443864707
+{ Album } ['Spirit Possession'] -- Spirit Possession ( 24 July 2020 ): 3.5998843443605812
+{ Album } ['Bladee'] -- 333 ( 16 July 2020 ): 3.5996557048057394
+{ Album } ['Nick Lutsko'] -- Songs on the Computer ( 4 December 2020 ): 3.5992372732003886
+{ Album } ['Nanoray'] -- Zapper ( 8 February 2021 ): 3.5989683349434602
+{ Album } ['Drixxo Lords'] -- Unimon Superstar ( 18 December 2020 ): 3.5980787864539834
+{ EP } ['India Jordan'] -- For You ( 20 May 2020 ): 3.5980304306525466
+{ Album } ['Parcels'] -- Live Vol. 1 ( 30 April 2020 ): 3.5978986653309635
+{ Album } ['Big Ghost Ltd.', 'Conway'] -- No One Mourns the Wicked ( 15 May 2020 ): 3.597888178931432
+{ Album } ['Elder'] -- Omens ( 24 April 2020 ): 3.597291277949641
+{ Album } ['Better Person'] -- Something to Lose ( 23 October 2020 ): 3.597124619988963
+{ Album } ['Gruzja', 'Neon Scaffold'] -- Konflikt ( 19 October 2020 ): 3.597056616235444
+{ Album } ['Tyler Childers'] -- Long Violent History ( 18 September 2020 ): 3.596530269214615
+{ Album } ['Nazar'] -- Guerrilla ( 13 March 2020 ): 3.5961001690696768
+{ Album } ['Gaerea'] -- Limbo ( 24 July 2020 ): 3.595582509039174
+{ Album } ['SPARKLE DIVISION'] -- To Feel Embraced ( 24 July 2020 ): 3.595582509039174
+{ Album } ['Christian Scott aTunde Adjuah'] -- Axiom ( 28 August 2020 ): 3.5954436793156472
+{ Album } ['Moses Boyd'] -- Dark Matter ( 14 February 2020 ): 3.595308088813612
+{ Album } ['Psychotic Waltz'] -- The God-Shaped Void ( 14 February 2020 ): 3.595308088813612
+{ Album } ['Sepultura'] -- Quadra ( 7 February 2020 ): 3.5951103175222334
+{ EP } ['Burial'] -- Chemz / Dolphinz ( 2 April 2021 ): 3.5949959007683443
+{ EP } ['Mutant Joe'] -- Operation Chaos ( 31 January 2020 ): 3.5949126456814033
+{ EP } ['우주소녀'] -- Neverland ( 9 June 2020 ): 3.5948237675725108
+{ Album } ["Daniel Romano's Outfit"] -- "Okay Wow" ( 28 March 2020 ): 3.5947439709387647
+{ Album } ['Axis of Light'] -- Axis of Light ( 1 June 2020 ): 3.5946891459632004
+{ Album } ['James Ferraro'] -- Terminus ( 29 January 2021 ): 3.5945939730058543
+{ Album } ['Tribulation'] -- Where the Gloom Becomes Sound ( 29 January 2021 ): 3.5945939730058543
+{ Album } ['Asphyx'] -- Necroceros ( 22 January 2021 ): 3.594391795018701
+{ Album } ['Pom Poko'] -- Cheater ( 15 January 2021 ): 3.594189717667534
+{ Album } ['Ciśnienie', 'Lód 9'] -- Brass Album ( 29 February 2020 ): 3.593555365690124
+{ Album } ['Tony Allen', 'Hugh Masekela'] -- Rejoice ( 20 March 2020 ): 3.5934644259444872
+{ Album } ['Thanatos'] -- Violent Death Rituals ( 20 March 2020 ): 3.5934644259444872
+{ Album } ['Nechochwen', 'Panopticon'] -- Nechochwen / Panopticon ( 31 January 2020 ): 3.5926460922134247
+{ Album } ['Autechre'] -- PLUS ( 28 October 2020 ): 3.5919160979338005
+{ Album } ['Actress'] -- Karma & Desire ( 23 October 2020 ): 3.591772628120277
+{ Album } ['Blue Öyster Cult'] -- The Symbol Remains ( 9 October 2020 ): 3.591371184704241
+{ Album } ['Clown Core'] -- Van ( 23 September 2020 ): 3.590912882923858
+{ Album } ['Crisis Sigil'] -- Small Towns. ( 17 August 2020 ): 3.589855062849086
+{ Album } ['Devin Townsend'] -- Order of Magnitude: Empath Live Volume 1 ( 23 October 2020 ): 3.5896147330063832
+{ Album } ['DGM'] -- Tragic Separation ( 9 October 2020 ): 3.5889993226836276
+{ Album } ['Special Interest'] -- The Passion Of ( 19 June 2020 ): 3.5881740442318275
+{ Album } ["Cartier'GOD"] -- Cartier' in da House ( 24 December 2020 ): 3.587811854329968
+{ Album } ['Urfaust'] -- Teufelsgeist ( 26 November 2020 ): 3.587335443074554
+{ Album } ['Roc Marciano'] -- Mt. Marci ( 16 November 2020 ): 3.587165534726169
+{ Album } ['Biesy'] -- Transsatanizm ( 3 May 2020 ): 3.5868399975881395
+{ Album } ['Benediction'] -- Scriptures ( 16 October 2020 ): 3.5866396161735383
+{ Album } ['Westside Gunn'] -- Pray for Paris ( 17 April 2020 ): 3.586386878069612
+{ Album } ['DRAIN'] -- California Cursed ( 10 April 2020 ): 3.5861888016780488
+{ Album } ['The Mountain Goats'] -- Songs for Pierre Chuvin ( 10 April 2020 ): 3.5861888016780488
+{ Album } ['Andrea'] -- Ritorno ( 9 April 2020 ): 3.5861605131670906
+{ Album } ['Pink Siifu'] -- Negro ( 8 April 2020 ): 3.5861322266849784
+{ Album } ['Freddie Gibbs', 'The Alchemist'] -- Alfredo Instrumentals ( 4 December 2020 ): 3.585853007235565
+{ Album } ['Igorrr'] -- Spirituality and Distortion ( 27 March 2020 ): 3.585792947118486
+{ Album } ['Sorry'] -- 925 ( 27 March 2020 ): 3.585792947118486
+{ Album } ['Rx Nephew'] -- Crack Therapy 3 ( 22 December 2020 ): 3.585616544386881
+{ Album } ['Sweven'] -- The Eternal Resonance ( 20 March 2020 ): 3.5855951688918934
+{ Album } ['Siege Column'] -- Darkside Legions ( 15 August 2020 ): 3.585591392917596
+{ EP } ['Aseul'] -- Slow Dance ( 6 March 2020 ): 3.5851999103987517
+{ Album } ['CS + Kreme'] -- Snoopy ( 18 February 2020 ): 3.584720487471077
+{ Album } ['Turia'] -- Degen van Licht ( 14 February 2020 ): 3.5846077671207146
+{ Album } ['Cénotaphe'] -- Monte Verità ( 12 February 2020 ): 3.584551419090818
+{ EP } ['Obongjayar'] -- Which Way is Forward? ( 7 February 2020 ): 3.58441058443437
+{ EP } ['Sunami'] -- Sunami ( 5 June 2020 ): 3.584396918078428
+{ Album } ['Weezer'] -- OK Human ( 29 January 2021 ): 3.58386384174315
+{ EP } ['GWSN'] -- The Keys ( 28 April 2020 ): 3.583760210040395
+{ Album } ['Błoto'] -- Erozje ( 24 April 2020 ): 3.5836932930215895
+{ Album } ['Fievel Is Glauque'] -- God's Trashmen Sent to Right the Mess ( 1 January 2021 ): 3.5830581457534776
+{ EP } ['DV-i'] -- Implementation ( 25 February 2020 ): 3.5827085854132252
+{ Album } ['Circle of Ouroborus'] -- Viimeinen juoksu ( 15 February 2020 ): 3.5825421159206856
+{ Album } ["death's dynamic shroud.wmv"] -- さよならTAISAI ( 1 December 2020 ): 3.5820024105450594
+{ Bootleg / Unauthorized } ['James Ferraro'] -- Hollywood Vishnu ( 2 July 2020 ): 3.5797179754396034
+{ EP } ['Bumper'] -- Pop Songs 2020 ( 3 September 2020 ): 3.5796233061713667
+{ Album } ['Victoria Monét'] -- Jaguar ( 7 August 2020 ): 3.5788545118513326
+{ Mixtape } ['Flo Milli'] -- Ho, Why Is You Here? ( 24 July 2020 ): 3.578456461358435
+{ Album } ['Transatlantic'] -- The Absolute Universe: Forevermore (Extended Version) ( 5 February 2021 ): 3.5781738851607057
+{ EP } ['Maquahuitl'] -- Con su pistola en la mano ( 1 January 2021 ): 3.5775783603360685
+{ Album } ['PUP'] -- Live at The Electric Ballroom ( 3 July 2020 ): 3.5771189296253656
+{ Album } ['Dark Buddha Rising'] -- Mathreyata ( 13 November 2020 ): 3.576747203494779
+{ Album } ['Infant Island'] -- Beneath ( 15 May 2020 ): 3.5764721778663637
+{ Album } ['Fawn Limbs'] -- Sleeper Vessels ( 18 September 2020 ): 3.575800988124041
+{ Album } ['Colter Wall'] -- Western Swing & Waltzes and Other Punchy Songs ( 28 August 2020 ): 3.5754471677272814
+{ Album } ['John Petrucci'] -- Terminal Velocity ( 28 August 2020 ): 3.5754471677272814
+{ Album } ['Khthoniik Cerviiks'] -- Æequiizoiikum ( 17 July 2020 ): 3.574741178526202
+{ Album } ['Kansas'] -- The Absence of Presence ( 17 July 2020 ): 3.574741178526202
+{ Album } ['The Residents'] -- It's Metal, Meat & Bone: The Songs of Dyin' Dog ( 10 July 2020 ): 3.5746237276226775
+{ EP } ['If I Die First'] -- My Poison Arms ( 10 July 2020 ): 3.5746237276226775
+{ Mixtape } ['Matt Ox'] -- Unorthodox ( 12 February 2021 ): 3.5737009176513883
+{ Album } ['AceMoMa'] -- A New Dawn ( 29 January 2020 ): 3.573458232785201
+{ Album } ['Traveler'] -- Termination Shock ( 24 April 2020 ): 3.5733357979550533
+{ Album } ['Tha God Fahim', 'Your Old Droog'] -- Tha Wolf on Wall St. ( 29 January 2021 ): 3.573133710480446
+{ Album } ['Sunwatchers'] -- Oh Yeah? ( 10 April 2020 ): 3.5731024220838172
+{ Album } ['ДахаБраха'] -- Alambari ( 27 March 2020 ): 3.572869290037283
+{ EP } ['Sutrah'] -- Aletheia ( 13 March 2020 ): 3.572636401725968
+{ Album } ['Four Tet'] -- Parallel ( 25 December 2020 ): 3.5721298557610184
+{ Album } ['Sigur Rós', 'Hilmar Örn Hilmarsson', 'Steindór Andersen', 'María Huld Markan Sigfúsdóttir'] -- Odin's Raven Magic ( 4 December 2020 ): 3.5715287421554693
+{ Album } ['Gwenifer Raymond'] -- Strange Lights Over Garth Mountain ( 13 November 2020 ): 3.5714833255340825
+{ EP } ['Phoebe Bridgers'] -- Copycat Killer ( 20 November 2020 ): 3.5711284989318743
+{ Album } ['Black Thought'] -- Streams of Thought, Vol. 3: Cane and Able ( 16 October 2020 ): 3.5701296362664983
+{ Album } ['Osees'] -- Live at Big Sur ( 20 December 2020 ): 3.5695604666884035
+{ Album } ['Various Artists'] -- Soul ( 18 December 2020 ): 3.569324866597849
+{ Album } ['Doves'] -- The Universal Want ( 11 September 2020 ): 3.5691332640506483
+{ Album } ['Moldé Volhal'] -- Into the Cave of Ordeals... ( 27 July 2020 ): 3.568150361344715
+{ Bootleg / Unauthorized } ['Yung Lean'] -- Live @ the Back of the Truck ( 2 April 2020 ): 3.5677791405819446
+{ Album } ['Ko Ishikawa', 'Nikos Sidirokastritis', 'Giorgos Varoutas', 'Harris Lambrakis', 'Anna Linardou'] -- Τhe Depths Above ( 3 February 2020 ): 3.567729288923462
+{ Album } ['Putrescent Seepage'] -- Dead and Demented ( 2 July 2020 ): 3.5674531624176087
+{ Album } ['clipping.', 'Christopher Fleeger'] -- Double Live ( 29 August 2020 ): 3.5670764866581233
+{ Album } ['Various Artists'] -- Salata²²⁰⁵ (Charity Compilation for Maciek) ( 7 May 2020 ): 3.565826037619374
+{ Album } ['Choir Boy'] -- Gathering Swans ( 8 May 2020 ): 3.5655668878998505
+{ Album } ['Elzhi'] -- Seven Times Down Eight Times Up ( 25 September 2020 ): 3.5655540679164566
+{ Album } ['Various Artists'] -- Rift One ( 8 July 2020 ): 3.5642290504843177
+{ Album } ['Thætas'] -- Shrines to Absurdity ( 26 June 2020 ): 3.56402846125863
+{ Album } ['Rx Papi'] -- MOOD ( 9 December 2020 ): 3.563906893018629
+{ Album } ['Chance デラソウル'] -- Besides ( 6 March 2020 ): 3.563795731829207
+{ Album } ['Ambrose Akinmusire'] -- On the Tender Spot of Every Calloused Moment ( 12 June 2020 ): 3.563794666701258
+{ Album } ['16'] -- Dream Squasher ( 5 June 2020 ): 3.563677860748495
+{ Album } ['Loke Rahbek', 'Frederik Valentin'] -- Elephant ( 28 February 2020 ): 3.5635994304911955
+{ Album } ['Tennis'] -- Swimmer ( 14 February 2020 ): 3.5632071237349194
+{ EP } ['Raveena'] -- Moonstone ( 7 February 2020 ): 3.5630111182586424
+{ Album } ['Funeral Leech'] -- Death Meditation ( 17 April 2020 ): 3.5628619227834726
+{ Album } ['Blackhandpath'] -- These Niggas Is at It Again ( 12 April 2020 ): 3.56277883135643
+{ EP } ['Gorillaz'] -- Song Machine, Ep. 3 ( 9 April 2020 ): 3.5627289913860194
+{ Album } ['The Notwist'] -- Vertigo Days ( 29 January 2021 ): 3.562403579217742
+{ Album } ['Korgonthurus'] -- Kuolleestasyntynyt ( 13 March 2020 ): 3.562280933894878
+{ Album } ['Radio Supernova'] -- Takaisin ( 15 January 2021 ): 3.562002944076481
+{ Album } ['Dola'] -- Dola ( 17 February 2020 ): 3.561866871528798
+{ Album } ['Taylor Swift'] -- Evermore ( 11 December 2020 ): 3.5610031005380587
+{ EP } ['Fraxiom'] -- Feeling Cool and Normal ( 13 September 2020 ): 3.558471843894392
+{ Album } ['Scardust'] -- Strangers ( 30 October 2020 ): 3.558436072280153
+{ Album } ['Triptykon with the Metropole Orkest'] -- Requiem ( 15 May 2020 ): 3.5568113060758746
+{ Album } ['Gareth Coker'] -- Ori and the Will of the Wisps ( 10 March 2020 ): 3.5561577881738407
+{ Mixtape } ['Pa Salieu'] -- Send Them to Coventry ( 13 November 2020 ): 3.5560124370977078
+{ Album } ['Westerman'] -- Your Hero Is Not Dead ( 5 June 2020 ): 3.555646859874536
+{ Album } ['Rolling Blackouts C.F.'] -- Sideways to New Italy ( 5 June 2020 ): 3.555646859874536
+{ Album } ['Mrs. Piss'] -- Self-Surgery ( 29 May 2020 ): 3.555449866795356
+{ Album } ['Yung Lean'] -- Starz ( 15 May 2020 ): 3.555056176801296
+{ Album } ['Thundercat'] -- It Is What It Is ( 3 April 2020 ): 3.553877474035116
+{ Album } ['Waxahatchee'] -- Saint Cloud ( 27 March 2020 ): 3.553681368487574
+{ Album } ['Melt Yourself Down'] -- 100% Yes ( 27 March 2020 ): 3.553681368487574
+{ Album } ['Falconer'] -- From a Dying Ember ( 26 June 2020 ): 3.5536679134061337
+{ Album } ['Ian William Craig'] -- Red Sun Through Smoke ( 20 March 2020 ): 3.553485361409279
+{ Album } ['Caribou'] -- Suddenly ( 28 February 2020 ): 3.5528979306999307
+{ Album } ['Machine Girl'] -- U-Void Synthesizer ( 26 February 2020 ): 3.552842031096237
+{ Album } ['Agnes Obel'] -- Myopia ( 21 February 2020 ): 3.5527023172087686
+{ Album } ['Elephant Tree'] -- Habits ( 24 April 2020 ): 3.5526208078219805
+{ Album } ['Haruka Nakamura'] -- Still Life ( 22 April 2020 ): 3.552587646838868
+{ Album } ['Katie Gately'] -- Loom ( 14 February 2020 ): 3.5525068020420214
+{ Album } ['Kvelertak'] -- Splid ( 14 February 2020 ): 3.5525068020420214
+{ Album } ['Cindy Lee'] -- Cat o' Nine Tails ( 14 April 2020 ): 3.55245505239108
+{ EP } ['Chika'] -- Industry Games ( 13 March 2020 ): 3.5519254660637887
+{ Album } ['Christian Kjellvander', 'Tonbruket'] -- Doom Country ( 28 February 2020 ): 3.5516941700630493
+{ Album } ['DreamWeaver'] -- Cloud9 ( 9 February 2020 ): 3.5513806556387992
+{ Album } ['Ymir'] -- Ymir ( 13 November 2020 ): 3.5507968361247877
+{ DJ Mix } ['Kali Malone'] -- NTS Radio: 24th March 2020 ( 24 March 2020 ): 3.5500122476019085
+{ Album } ['Food House'] -- Food House ( 29 October 2020 ): 3.5490559049241144
+{ Album } ['Autechre'] -- AE_Live_Dublin_150718 ( 7 April 2020 ): 3.5478807021494645
+{ Album } ['Liam Gallagher'] -- MTV Unplugged ( 12 June 2020 ): 3.5477157092026705
+{ Album } ['Bill Callahan'] -- Gold Record ( 4 September 2020 ): 3.547499247365848
+{ Album } ['Black Swan'] -- Repetition Hymns ( 8 January 2021 ): 3.5465869308083704
+{ DJ Mix } ['DJ Harvey'] -- DJ Harvey Live at Rumors ( 18 March 2020 ): 3.5465467951052565
+{ EP } ['Nilüfer Yanya'] -- Feeling Lucky? ( 11 December 2020 ): 3.5461155058043863
+{ EP } ['Animal Collective'] -- Bridge to Quiet ( 3 July 2020 ): 3.5457236640024923
+{ EP } ['Yabujin'] -- Swords ( 15 November 2020 ): 3.545678625351014
+{ Album } ['Wytch Hazel'] -- III: Pentecost ( 30 October 2020 ): 3.545410192632077
+{ Album } ['Bob Mould'] -- Blue Hearts ( 25 September 2020 ): 3.544824102405314
+{ Album } ['Ada Rook'] -- 2,020 Knives ( 31 May 2020 ): 3.5447967846116315
+{ Album } ['Deerhoof'] -- Future Teenage Cave Artists ( 29 May 2020 ): 3.544740680449587
+{ Album } ['Gazpacho'] -- Fireworker ( 18 September 2020 ): 3.5447070664881792
+{ Album } ['Sweeping Promises'] -- Hunger for a Way Out ( 14 August 2020 ): 3.5441227969244595
+{ Album } ['KMRU'] -- Peel ( 23 July 2020 ): 3.5437563176365336
+{ Album } ['Mystras'] -- Castles Conquered and Reclaimed ( 17 July 2020 ): 3.5436564726259743
+{ Album } ['Greg Foat'] -- Symphonie Pacifique ( 3 July 2020 ): 3.543423674014269
+{ Album } ['Hania Rani'] -- Home ( 29 May 2020 ): 3.5428427370852753
+{ Album } ['Aara'] -- En Ergô Einai ( 3 April 2020 ): 3.5419163836264214
+{ Album } ['Severoth'] -- Vsesvit ( 20 November 2020 ): 3.5412573949449304
+{ Album } ['H.e.a.t'] -- H.e.a.t II ( 21 February 2020 ): 3.541224156275175
+{ Album } ['Godthrymm'] -- Reflections ( 14 February 2020 ): 3.541108996334651
+{ Album } ['Soen'] -- Imperial ( 29 January 2021 ): 3.5409433166923336
+{ Album } ['Pearl Charles'] -- Magic Mirror ( 15 January 2021 ): 3.5405450950157795
+{ Album } ['Hospital Bracelet'] -- South Loop Summer ( 12 January 2021 ): 3.5404598133821445
+{ Bootleg / Unauthorized } ['100 Gecs'] -- Square Garden ( 24 April 2020 ): 3.539428914875314
+{ Album } ['Praed Orchestra!'] -- Live in Sharjah ( 9 November 2020 ): 3.5394281110303085
+{ Album } ['I DONT KNOW HOW BUT THEY FOUND ME'] -- RAZZMATAZZ ( 23 October 2020 ): 3.538164081431914
+{ Album } ['Dead and Dripping'] -- Profane Verses of Murderous Rhetoric ( 3 October 2020 ): 3.5370683692350897
+{ Album } ['Smerz'] -- Believer ( 26 February 2021 ): 3.537041711930301
+{ Album } ['Otay:onii'] -- 冥冥 (Míng Míng) ( 22 February 2021 ): 3.536985153980993
+{ Album } ['Your Old Droog', 'Tha God Fahim'] -- Tha YOD Fahim ( 19 February 2021 ): 3.5369236842463936
+{ EP } ['Luna Li'] -- Jams EP ( 5 February 2021 ): 3.5366878111298568
+{ Album } ['Mefitis'] -- Offscourings ( 30 January 2021 ): 3.5365867970217226
+{ Album } ['Graindelavoix', 'Björn Schmelzer'] -- Tenebrae ( 17 April 2020 ): 3.5360893622951552
+{ Album } ['Aminé'] -- Limbo ( 7 August 2020 ): 3.5359939787752688
+{ Album } ['Them Airs'] -- Doped Runner Verse ( 20 November 2020 ): 3.535394848857632
+{ EP } ['Nuclear Power Trio'] -- A Clear and Present Rager ( 30 October 2020 ): 3.534913954732742
+{ Album } ['Sangre de Muérdago'] -- Xuntas ( 28 January 2021 ): 3.5345178458270476
+{ Album } ['Oceans of Slumber'] -- Oceans of Slumber ( 4 September 2020 ): 3.534109220035036
+{ Album } ['Revenge'] -- Strike.Smother.Dehumanize ( 22 May 2020 ): 3.533835785866327
+{ Album } ['Grandaddy'] -- The Sophtware Slump ..... on a wooden piano ( 20 November 2020 ): 3.5333403779915744
+{ Album } ['Black Dresses'] -- Peaceful as Hell ( 13 April 2020 ): 3.5327472065582115
+{ Album } ['FROMTHEHEART'] -- "Things Happen, It's OK!" ( 8 April 2020 ): 3.5326078650926647
+{ Album } ['Brakence'] -- Punk2 ( 26 March 2020 ): 3.532245811078165
+{ Album } ['Winterfylleth'] -- The Reckoning Dawn ( 8 May 2020 ): 3.5321367288392445
+{ Album } ['Ripped to Shreds'] -- 亂 (Luan) ( 17 April 2020 ): 3.53179045252664
+{ Album } ['King Gizzard & The Lizard Wizard'] -- Live in London '19 ( 24 December 2020 ): 3.531619400891509
+{ Album } ['Serengeti'] -- AJAI ( 5 April 2020 ): 3.53159282386881
+{ Album } ['Jacaszek'] -- Music for Film ( 27 March 2020 ): 3.53144471855859
+{ Album } ['Adrian Younge & Ali Shaheed Muhammad'] -- Jazz Is Dead 001 ( 20 March 2020 ): 3.53132959437196
+{ Album } ['Dopelord'] -- Sign of the Devil ( 10 March 2020 ): 3.531165235702278
+{ EP } ["Jack Stauber's Micropop"] -- Shop: A Pop Opera ( 8 March 2020 ): 3.5311323787123534
+{ Album } ['The Night Flight Orchestra'] -- Aeromantic ( 28 February 2020 ): 3.5309845830655973
+{ Album } ['Katie Pruitt'] -- Expectations ( 21 February 2020 ): 3.5308696996778797
+{ Album } ['Pat Metheny'] -- From This Place ( 21 February 2020 ): 3.5308696996778797
+{ Album } ['Plague'] -- Portraits of Mind ( 14 February 2020 ): 3.530754876462328
+{ Album } ['Marrasmieli'] -- Between Land and Sky ( 27 January 2020 ): 3.5304598929889264
+{ Album } ['Haruka Nakamura'] -- Still Life II ( 13 November 2020 ): 3.528041499936435
+{ Bootleg / Unauthorized } ['Machine Girl'] -- Bootleg ( 27 May 2020 ): 3.527954187696648
+{ Album } ['Ifernach', 'Pan-Amerikan Native Front'] -- Ifernach / Pan-Amerikan Native Front ( 2 July 2020 ): 3.5278969814670114
+{ Album } ['Víkingur Ólafsson'] -- Debussy – Rameau ( 27 March 2020 ): 3.527458337986255
+{ EP } ['이달의 소녀'] -- 12:00 ( 19 October 2020 ): 3.5273296880963607
+{ Album } ['John Carpenter'] -- Lost Themes III: Alive After Death ( 5 February 2021 ): 3.5263162926221443
+{ Album } ['Yoth Iria'] -- As the Flame Withers ( 25 January 2021 ): 3.526131677156066
+{ Album } ["Cartier'GOD"] -- Cartier Vision ( 14 November 2020 ): 3.524926974449355
+{ Album } ['Laura Veirs'] -- My Echo ( 23 October 2020 ): 3.5245601463868796
+{ Album } ['Loma'] -- Don't Shy Away ( 23 October 2020 ): 3.5245601463868796
+{ Album } ['Guitar Fight From Fooly Cooly'] -- Soak ( 14 August 2020 ): 3.52339693261496
+{ Album } ['井出ちよの'] -- わたしの高校生活 ( 26 August 2020 ): 3.5220337517241593
+{ Album } ['dgoHn'] -- Undesignated Proximate ( 17 April 2020 ): 3.5214332957743624
+{ Album } ['Aeternam'] -- Al Qassam ( 27 March 2020 ): 3.5210885756889163
+{ Album } ['Perdition Temple'] -- Sacraments of Descension ( 27 March 2020 ): 3.5210885756889163
+{ Album } ['Niños del Cerro'] -- No va a pasar el tiempo en vano ( 31 August 2020 ): 3.521051959862783
+{ EP } ['Departure Chandelier'] -- Dripping Papal Blood ( 20 March 2020 ): 3.5209737891098722
+{ Album } ['Olhava'] -- Ladoga ( 20 March 2020 ): 3.5209737891098722
+{ Album } ['Octa Möbius Sheffner'] -- Traffic Sirens & Stagnant++ Divinity ( 17 October 2020 ): 3.5208414630271427
+{ Album } ['Honey Harper'] -- Starmaker ( 6 March 2020 ): 3.520744396059852
+{ Album } ['Cocanha'] -- Puput ( 21 February 2020 ): 3.5205152430805833
+{ Album } ['Mark Fell', 'Will Guthrie'] -- Infoldings ( 19 November 2020 ): 3.5204877231183933
+{ Album } ['Izthmi'] -- The Arrows of Our Ways ( 14 February 2020 ): 3.520400756590004
+{ Album } ['The Spirit'] -- Cosmic Terror ( 7 February 2020 ): 3.5202863300841525
+{ Album } ['Loathe'] -- The Things They Believe ( 7 February 2021 ): 3.519737710476725
+{ Album } ['灰野敬二'] -- 黑的意义 礼节先于义务 黒の意味 義務より礼儀l正しく すべてよりも速くなってしまって 光の中に産み落とされることのなかった微笑 (The Meaning of Blackness More Decorous Than Duty Having Become Faster Than Everything A Smile That Was Never Birthed Into the Light) ( 15 April 2020 ): 3.519550409039855
+{ Album } ['Accept'] -- Too Mean to Die ( 29 January 2021 ): 3.519483054166926
+{ Album } ['Bicep'] -- Isles ( 22 January 2021 ): 3.5192851007944297
+{ Bootleg / Unauthorized } ['Dean Blunt'] -- No More Parties in E8 ( 2 July 2020 ): 3.5180754322180565
+{ EP } ['Bob Vylan'] -- We Live Here ( 5 June 2020 ): 3.518045619388616
+{ Bootleg / Unauthorized } ['Gupi', 'Fraxiom'] -- Gupi & Fraxiom @ Square Garden ( 24 April 2020 ): 3.5175344944992464
+{ DJ Mix } ['Armpit Termites'] -- ARMPIT TERMITES LIVE AT BANGERFEST 2021 NO SCAM NO VIRUS SEX MOVIE FREE 2012 النمل الأبيض الإبط رائحة الصبي كس ( 15 February 2021 ): 3.516384825242357
+{ Album } ['Septicflesh'] -- Infernus Sinfonica MMXIX ( 31 July 2020 ): 3.515344407965678
+{ Album } ['Roselia'] -- Wahl ( 15 July 2020 ): 3.5151944862125437
+{ EP } ["Paysage d'Hiver"] -- Im Traum ( 27 November 2020 ): 3.5147759463452073
+{ Album } ['여자친구'] -- 回:Walpurgis Night ( 9 November 2020 ): 3.5144763651251787
+{ Album } ['Taylor Swift'] -- Folklore ( 24 July 2020 ): 3.5141728123519966
+{ Album } ['Spirit Adrift'] -- Enlightened in Eternity ( 16 October 2020 ): 3.5140775430139586
+{ Album } ['DJ Muggs', 'Rome Streetz'] -- Death & the Magician ( 22 February 2021 ): 3.513979644923576
+{ EP } ['Himera'] -- More Than Friends ( 4 September 2020 ): 3.513381306721047
+{ Album } ['Bananagun'] -- The True Story of Bananagun ( 26 June 2020 ): 3.51222572199615
+{ Album } ['Vampire'] -- Rex ( 19 June 2020 ): 3.5121104938026253
+{ EP } ['Sematary'] -- Warboy ( 1 May 2020 ): 3.511835617866033
+{ Album } ['Juana Molina'] -- ANRMAL ( 23 October 2020 ): 3.5116385147784457
+{ Album } ['Armagedda'] -- Svindeldjup Ättestup ( 15 May 2020 ): 3.5115352527096
+{ Album } ['Mason Lindroth'] -- Hylics OST ( 22 July 2020 ): 3.511139414227669
+{ EP } ['Łona i Webber'] -- Śpiewnik domowy ( 17 April 2020 ): 3.511076139022085
+{ Album } ['Joyryde'] -- Brave ( 3 April 2020 ): 3.5108469416647865
+{ Album } ['Sadness'] -- Alluring the Distant Eye ( 29 March 2020 ): 3.510765143522175
+{ Album } ['Empty Country'] -- Empty Country ( 20 March 2020 ): 3.5106179838477845
+{ Mixtape } ['Bootychaaain'] -- Bright ( 15 March 2020 ): 3.510536271233977
+{ Album } ['下村陽子'] -- KINGDOM HEARTS - III, II.8, Unchained χ & Union χ [Cross] (Original Soundtrack) ( 11 November 2020 ): 3.5103274065374372
+{ Album } ['Kvaen'] -- The Funeral Pyre ( 28 February 2020 ): 3.510274996068145
+{ Album } ['Nyx Nott'] -- Aux pieds de la nuit ( 14 February 2020 ): 3.510046636717681
+{ Album } ['Pinegrove'] -- Amperland, NY ( 26 February 2021 ): 3.509543305244581
+{ Album } ['LICE'] -- WASTELAND: What Ails Our People Is Clear ( 8 January 2021 ): 3.5081611680046976
+{ Album } ['R.A.P. Ferreira'] -- Bob's Son: R​.​A​.​P. Ferreira in the Garden Level Cafe of the Scallops Hotel ( 1 January 2021 ): 3.5079641127586445
+{ Album } ['Empyrium'] -- Über den Sternen ( 26 February 2021 ): 3.507600671055648
+{ Album } ['Yussef Dayes Trio'] -- Welcome to the Hills ( 3 December 2020 ): 3.507361728972167
+{ Album } ['Void Rot'] -- Descending Pillars ( 11 September 2020 ): 3.5031328972044116
+{ Album } ['Rope Sect'] -- The Great Flood ( 12 August 2020 ): 3.502638117219775
+{ Album } ['Chepang'] -- Chatta ( 22 May 2020 ): 3.5012913308903744
+{ Bootleg / Unauthorized } ['SpaceGhostPurrp'] -- COVAMP ( 17 April 2020 ): 3.501130780390572
+{ Album } ['Ben Lukas Boysen'] -- Mirage ( 1 May 2020 ): 3.5009477424501148
+{ Album } ['ゲスの極み乙女。'] -- ストリーミング、CD、レコード (Streaming, CD, Record) ( 1 May 2020 ): 3.5009477424501148
+{ Album } ['BC Camplight'] -- Shortly After Takeoff ( 24 April 2020 ): 3.500833332489298
+{ EP } ['Hayley Williams'] -- Petals for Armor II ( 21 April 2020 ): 3.5007843179377494
+{ Album } ['Zopp'] -- Zopp ( 10 April 2020 ): 3.500604691780667
+{ Album } ['Dool'] -- Summerland ( 10 April 2020 ): 3.500604691780667
+{ Album } ['Bladee'] -- Exeter ( 8 April 2020 ): 3.500493248137277
+{ Album } ['FUJI||||||||||TA'] -- iki ( 3 April 2020 ): 3.5004904610109078
+{ EP } ['Strawberry Hospital'] -- Phantasmaphilia ( 1 April 2020 ): 3.5004578346154513
+{ Album } ['Lucifer'] -- Lucifer III ( 20 March 2020 ): 3.500262178585696
+{ Album } ['Heaven Pierce Her'] -- ULTRAKILL: INFINITE HYPERDEATH ( 12 September 2020 ): 3.5001509272821574
+{ Album } ['Dark Fortress'] -- Spectres From the Old World ( 28 February 2020 ): 3.4999202025694185
+{ Album } ['Roger Waters'] -- Us+Them ( 2 October 2020 ): 3.495756350696745
+{ Album } ['Yasmin Williams'] -- Urban Driftwood ( 29 January 2021 ): 3.495536658060261
+{ Album } ['SHINee'] -- Don't Call Me ( 22 February 2021 ): 3.495484825963477
+{ Album } ['Azmari'] -- Samā'ī ( 22 January 2021 ): 3.4949688708989166
+{ Album } ["Working Men's Club"] -- Working Men's Club ( 2 October 2020 ): 3.4931145733002102
+{ EP } ['2814'] -- Voyage / Embrace ( 9 September 2020 ): 3.4927356767962716
+{ DJ Mix } ['Tzusing'] -- RA.741 ( 17 August 2020 ): 3.4926498104387305
+{ Album } ['Misery Signals'] -- Ultraviolet ( 7 August 2020 ): 3.492193169894509
+{ Album } ['Roly Porter'] -- Kistvaen ( 5 June 2020 ): 3.491161160093729
+{ Album } ['Johanna Warren'] -- Chaotic Good ( 1 May 2020 ): 3.49058990889257
+{ Album } ['The Dream Syndicate'] -- The Universe Inside ( 10 April 2020 ): 3.4902478731659317
+{ Album } ['Medico Peste'] -- ב: The Black Bile ( 20 March 2020 ): 3.489906373323609
+{ Album } ['Trees Speak'] -- Ohms ( 6 March 2020 ): 3.489679004329912
+{ Album } ['Code Orange'] -- Underneath ( 13 March 2020 ): 3.4890733783235555
+{ Album } ['Perfect Plan'] -- Time for a Miracle ( 4 September 2020 ): 3.488840764213274
+{ Album } ['Charles Lloyd'] -- 8: Kindred Spirits (Live from The Lobero) ( 28 February 2020 ): 3.488787541168701
+{ Album } ['Purification'] -- Perfect Doctrine ( 31 July 2020 ): 3.4876588104982544
+{ DJ Mix } ['bliss3three'] -- bliss3three 2021 bangerfest ( 5 February 2021 ): 3.4859415151359774
+{ EP } ['Octo Octa'] -- She's Calling ( 5 February 2021 ): 3.4848302185912954
+{ EP } ['Lexie Liu'] -- 上线了 Gone Gold ( 28 January 2021 ): 3.4846975177428976
+{ EP } ['Terminal Bliss'] -- BRUTE ERR​/​ATA ( 11 January 2021 ): 3.4844157878783246
+{ Album } ['Pejzaż'] -- Noce i dnie ( 31 October 2020 ): 3.4840943753489046
+{ Album } ['Steve Roach'] -- Tomorrow ( 23 October 2020 ): 3.4830947328999753
+{ EP } ['Kurt Vile'] -- Speed, Sound, Lonely KV ( 2 October 2020 ): 3.482749248156886
+{ Album } ['COMANAVAGO'] -- Heart Failure ( 2 October 2020 ): 3.482749248156886
+{ EP } ['Arch Echo'] -- Story I ( 2 October 2020 ): 3.481515368050779
+{ Album } ['Baths'] -- Pop Music / False B-Sides II ( 29 May 2020 ): 3.480687601346937
+{ Album } ['Rose City Band'] -- Summerlong ( 15 May 2020 ): 3.480459719499781
+{ Album } ['Other Lives'] -- For Their Love ( 24 April 2020 ): 3.480118342356225
+{ Album } ['Calligram'] -- The Eye Is the First Circle ( 10 April 2020 ): 3.479891054551196
+{ Album } ['Stuck'] -- Change Is Bad ( 3 April 2020 ): 3.4797774997031508
+{ Album } ['Nap Eyes'] -- Snapshot of a Beginner ( 27 March 2020 ): 3.4796640042102234
+{ Album } ['Regarde les hommes tomber'] -- Ascension ( 28 February 2020 ): 3.4792106155719664
+{ Album } ['Faidra'] -- Six Voices Inside ( 21 February 2020 ): 3.4790974166914
+{ Album } ['Skyforest'] -- A New Dawn ( 20 February 2020 ): 3.4790812502629906
+{ Album } ['Ainsoph'] -- Ω - V ( 2 February 2020 ): 3.4787904614251306
+{ Album } ['Lovebites'] -- Electric Pentagram ( 29 January 2020 ): 3.4787258949033304
+{ Album } ['Ward Davis'] -- Black Cats and Crows ( 20 November 2020 ): 3.4763451831225307
+{ Album } ['Erland Dahlen'] -- Bones ( 30 October 2020 ): 3.4747107069471017
+{ Album } ['Rx Papi'] -- 100 Miles and Walk'n ( 19 February 2021 ): 3.4746904229400055
+{ Album } ['Elori Saxl'] -- The Blue of Distance ( 22 January 2021 ): 3.474227215878745
+{ EP } ['Perihelion Gnosis'] -- Syzygial Summoning ( 18 February 2021 ): 3.473918701057678
+{ Album } ['Jim Jones', 'Harry Fraud'] -- The Fraud Department ( 19 February 2021 ): 3.4738760886805777
+{ EP } ['Glaive'] -- Cypress Grove ( 19 November 2020 ): 3.473172039039692
+{ DJ Mix } ['Lost Media'] -- 020621 ( 6 February 2021 ): 3.473007052903605
+{ EP } ['Oneohtrix Point Never'] -- Midday Suite ( 26 October 2020 ): 3.472777631306362
+{ EP } ['Pilotredsky'] -- Edition EP ( 11 February 2021 ): 3.4721708918233305
+{ Album } ['Siwan Rhys', 'George Barton'] -- good day good day bad day bad day ( 15 August 2020 ): 3.4715570814992955
+{ Album } ['Krallice'] -- Mass Cathexis ( 7 August 2020 ): 3.471467987877331
+{ Album } ['Bedsore'] -- Hypnagogic Hallucinations ( 24 July 2020 ): 3.471239598063756
+{ Album } ['Daoko'] -- Anima ( 24 June 2020 ): 3.4707509906578706
+{ Album } ['death drive'] -- Handle With Care ( 18 September 2020 ): 3.470528215685021
+{ Album } ['Mountaineer'] -- Bloodletting ( 22 May 2020 ): 3.4702147806161996
+{ Album } ['Clarice Jensen'] -- The Experience of Repetition as Death ( 3 April 2020 ): 3.469421019049273
+{ Album } ['Pejzaż'] -- Blues ( 27 March 2020 ): 3.46930786134055
+{ Album } ['井出ちよの'] -- みんなの高校生活 ( 30 December 2020 ): 3.4691662301011235
+{ Album } ['Brandy Clark'] -- Your Life Is a Record ( 6 March 2020 ): 3.468968743176619
+{ Album } ['Flee Lord', 'Mephux'] -- Pray for the Evil ( 28 February 2020 ): 3.4688558220732406
+{ EP } ['Sadness'] -- Atna ( 5 February 2020 ): 3.468485211815587
+{ Album } ['Hällas'] -- Conundrum ( 31 January 2020 ): 3.46840472879394
+{ Album } ['Tyshawn Sorey'] -- Unfiltered ( 4 March 2020 ): 3.4644776567384175
+{ EP } ['Dreamcatcher'] -- Dystopia: Road to Utopia ( 26 January 2021 ): 3.4639223050106844
+{ Album } ['Various Artists'] -- HOA010 ( 19 June 2020 ): 3.4627397083512497
+{ Album } ['Fates Warning'] -- Long Day Good Night ( 6 November 2020 ): 3.462591274922378
+{ Album } ['Venom Prison'] -- Primeval ( 9 October 2020 ): 3.4621330146653584
+{ Album } ['Hen Ogledd'] -- Free Humans ( 25 September 2020 ): 3.4619042403607456
+{ Album } ['米津玄師'] -- Stray Sheep ( 5 August 2020 ): 3.4610728526515118
+{ Album } ['Speaker Music'] -- Black Nationalist Sonic Weaponry ( 19 June 2020 ): 3.460309454071023
+{ Album } ['Various Artists'] -- Live at The Windmill ( 1 May 2020 ): 3.460273554408852
+{ Album } ['100 Gecs'] -- 1000 Gecs and the Tree of Clues ( 10 July 2020 ): 3.46021854893107
+{ Album } ['Jonathan Powell'] -- Sequentia cyclica ( 31 January 2020 ): 3.4600849099596367
+{ Album } ['Christian Lee Hutson'] -- Beginners ( 29 May 2020 ): 3.459969222767491
+{ Mixtape } ['Mokshadripp'] -- Drixxed Out Mountains ( 26 May 2020 ): 3.4599206617144866
+{ Album } ['Klein'] -- Frozen ( 23 April 2020 ): 3.459387206185851
+{ Album } ['Bada'] -- Bada ( 10 April 2020 ): 3.4591774173217242
+{ Album } ['Stove God Cook$', 'Roc Marciano'] -- Reasonable Drought ( 27 March 2020 ): 3.4589517184708765
+{ Album } ['Muriel Grossmann'] -- Quiet Earth ( 29 November 2020 ): 3.4571832934418625
+{ DJ Mix } ['Sematary'] -- SEMATARY MIX FOR FINAL LIMP PUMPO RAVE 9/5/20 ( 7 September 2020 ): 3.4569133011014683
+{ Album } ['Nicolás Jaar & Group'] -- Live in the Hague ( 5 February 2021 ): 3.4568698004902765
+{ Album } ['Senyawa'] -- Alkisah ( 19 February 2021 ): 3.4556196637770054
+{ Album } ['Arctic Rain'] -- The One ( 7 August 2020 ): 3.4538972429390586
+{ Album } ['Aero Gros M'] -- Chocolate Hearts and Stag Beetles ( 14 February 2021 ): 3.453863711181872
+{ Album } ['Violent Silence'] -- Twilight Furies ( 27 November 2020 ): 3.4524850343265663
+{ EP } ['DJ Blackpower'] -- BLP2021: For Ur Own Good ( 14 February 2021 ): 3.451908931130648
+{ Album } ['Devi McCallion', 'Katie Dey'] -- Magic Fire Brain ( 13 September 2020 ): 3.451343940596045
+{ Album } ['ROME'] -- The Lone Furrow ( 28 August 2020 ): 3.451083787980245
+{ Album } ['Mimideath'] -- Foar Everywun Frum MIMI ( 31 July 2020 ): 3.450629263209171
+{ Album } ['Skeleton'] -- Skeleton ( 10 July 2020 ): 3.4502889892705846
+{ Album } ['Panopticon'] -- Live Migration ( 19 June 2020 ): 3.4493646821387456
+{ Album } ['Lucinda Williams'] -- Southern Soul: From Memphis to Muscle Shoals & More ( 25 November 2020 ): 3.4486463293145313
+{ Album } ['Nick Storring'] -- My Magic Dreams Have Lost Their Spell ( 27 March 2020 ): 3.4485955756012037
+{ Album } ['valyri', 'Octa Möbius Sheffner'] -- Impermanence of Snow, Reverence of August ( 25 December 2020 ): 3.4485227092905872
+{ Album } ['Stabscotch'] -- Twilight Dawn ( 19 March 2020 ): 3.4484670966006656
+{ Album } ['Gravesend'] -- Methods of Human Disposal ( 19 February 2021 ): 3.447243694953487
+{ DJ Mix } ['DJ Hardvore'] -- OVER AGAIN ( 14 April 2020 ): 3.44479992976235
+{ Album } ['崎元仁'] -- 十三機兵防衛圏 オリジナル・サウンドトラック (13 Sentinels: Aegis Rim Original Soundtrack) ( 27 February 2020 ): 3.4444604395728065
+{ Album } ['Longmont Potion Castle'] -- 17 ( 9 February 2020 ): 3.443877129248263
+{ EP } ['Mavi'] -- End of the Earth ( 22 February 2021 ): 3.4436230332933953
+{ Album } ["Humanity's Last Breath"] -- Välde ( 12 February 2021 ): 3.4434589388537975
+{ EP } ['The Book Club'] -- Friendo ( 25 December 2020 ): 3.4427311350819507
+{ Album } ['black midi'] -- The Black Midi Anthology Vol. 1: Tales of Suspense and Revenge ( 5 June 2020 ): 3.439363516768896
+{ Album } ['Frogman'] -- Slyme Koro ( 26 February 2021 ): 3.4392691947959904
+{ Album } ['Buscabulla'] -- Regresa ( 8 May 2020 ): 3.438913178811229
+{ Album } ['Bròn'] -- Pred dverima noći ( 11 December 2020 ): 3.4388736335629853
+{ Album } ['Kikagaku Moyo'] -- Live at Levitation ( 15 January 2021 ): 3.4382026684847475
+{ Album } ['Master Boot Record'] -- Floppy Disk Overdrive ( 20 March 2020 ): 3.438127347013169
+{ EP } ['Laurence Mason'] -- The Take Vibe E​.​P. ( 11 September 2020 ): 3.4376076096390378
+{ Album } ['Lorna Shore'] -- Immortal ( 31 January 2020 ): 3.437344387939069
+{ Bootleg / Unauthorized } ['Viper'] -- It's Me ( 1 January 2021 ): 3.4359271321333282
+{ Album } ['Ericdoa'] -- COA ( 6 November 2020 ): 3.4314901556865487
+{ Album } ['Luke Stewart Exposure Quintet'] -- Luke Stewart Exposure Quintet ( 23 October 2020 ): 3.429626467621461
+{ EP } ['Found Hanging'] -- Spilled Forth Despoiled Remnants ( 15 September 2020 ): 3.4294481931201877
+{ Album } ['Mogwai'] -- 2018 ( 4 September 2020 ): 3.427671636778885
+{ EP } ['Gorillaz'] -- Song Machine Ep. 2 ( 27 February 2020 ): 3.427420713877183
+{ Album } ['Dee Snider'] -- For the Love of Metal: Live! ( 31 July 2020 ): 3.4257735923058483
+{ Album } ['Autechre'] -- AE_Live_Melbourne_210618 ( 7 April 2020 ): 3.4231961589064515
+{ Album } ['Harakiri for the Sky'] -- Mære ( 19 February 2021 ): 3.4228293718513485
+{ Album } ['Autechre'] -- AE_Live_Zagreb_061116 ( 7 April 2020 ): 3.4227849324299453
+{ Album } ['DJ Rozwell'] -- What Happens After the Death Is Recorded ( 23 February 2021 ): 3.422629243217549
+{ Album } ['Naked Days'] -- My Head Hz ( 6 February 2021 ): 3.4226174043409503
+{ Album } ["Observe Since '98"] -- Le dernier royaume ( 1 January 2021 ): 3.422031475104065
+{ EP } ['SOPHIE'] -- Bipp (Autechre Mx) / Unisil ( 15 January 2021 ): 3.421703778191034
+{ Album } ['Iotunn'] -- Access All Worlds ( 26 February 2021 ): 3.4183419174450704
+{ Album } ["death's dynamic shroud.wmv"] -- ENDLESSメガタワー I ( 1 February 2021 ): 3.4176054252539343
+{ EP } ['Tim Reaper'] -- Teletext EP ( 22 January 2021 ): 3.4139221085024145
+{ Album } ['Furia'] -- w Śnialni ( 21 February 2021 ): 3.412489691142467
+{ EP } ['Cherry Bullet'] -- Cherry Rush ( 20 January 2021 ): 3.4119697930575144
+{ Album } ['Dread Sovereign'] -- Alchemical Warfare ( 15 January 2021 ): 3.4118886695727637
+{ Album } ['Aaron Cartier'] -- Aaron Cartier Best Dog ( 20 November 2020 ): 3.4109821269036975
+{ DJ Mix } ['Bangersquad'] -- 21.02.14 Bang From the Dead ディーズナッツ 私の名前はジェフです ナインプラステンとは ( 14 February 2021 ): 3.4109044278254355
+{ Album } ['Merzbow'] -- StereoAkuma ( 28 February 2020 ): 3.408978913842251
+{ Album } ['BAPAK.'] -- Miasma Tahun Asu ( 12 August 2020 ): 3.4076640747944764
+{ Bootleg / Unauthorized } ['A. G. Cook'] -- Secret Sky Acoustic EDM Set ( 10 May 2020 ): 3.4073643004288896
+{ Bootleg / Unauthorized } ['Car Seat Headrest'] -- Livestream 5/26/2020 ( 26 May 2020 ): 3.405337268351103
+{ Album } ['Autechre'] -- AE_Live_Helsinki_141116 ( 7 April 2020 ): 3.402682646391823
+{ Album } ['For Your Health'] -- In Spite Of ( 12 February 2021 ): 3.401971481759174
+{ Album } ['Coaltar of the Deepers'] -- Revenge of the Visitors ( 27 January 2021 ): 3.4017123419261024
+{ Album } ['Silent Skies'] -- Satellites ( 11 December 2020 ): 3.3994009049017104
+{ Album } ['Bastarda'] -- Nigunim ( 29 February 2020 ): 3.395790075554005
+{ Bootleg / Unauthorized } ['Weezer'] -- Ecce homo ( 2 July 2020 ): 3.3939136109502424
+{ Album } ['Angelus Apatrida'] -- Angelus Apatrida ( 5 February 2021 ): 3.392606622462727
+{ Album } ['Pretty Maids'] -- Maid in Japan: Future World Live 30th Anniversary ( 22 May 2020 ): 3.3918550418869784
+{ Album } ['The Monkees'] -- The Monkees Live: The Mike & Micky Show ( 3 April 2020 ): 3.389781214538764
+{ EP } ['Lianne La Havas'] -- Live At The Roundhouse ( 18 December 2020 ): 3.387999953789505
+{ Album } ['Abominable Putridity'] -- Parasitic Metamorphosis Manifestation ( 1 March 2021 ): 3.3858933944307763
+{ Album } ['久石譲'] -- Kikiʼs Delivery Service Suite ( 19 August 2020 ): 3.3853130358423447
+{ EP } ['Hazing Over'] -- Pestilence ( 19 February 2021 ): 3.3845652877920043
+{ Album } ['Kult'] -- Pol'And'Rock Festival 2019 ( 5 November 2020 ): 3.3833822713373736
+{ Album } ['Dipygus'] -- Bushmeat ( 25 January 2021 ): 3.382064948949681
+{ EP } ['Providencial'] -- Vol. 2 ( 22 December 2020 ): 3.3804417804007025
+{ Album } ['Youth Novel'] -- Youth Novel ( 15 February 2021 ): 3.376410854818482
+{ Album } ['Ryley Walker', 'Kikagaku Moyo'] -- Deep Fried Grandeur ( 5 February 2021 ): 3.3725338002845033
+{ Album } ['Merzbow'] -- Mukomodulator ( 2 January 2021 ): 3.3701985219093804
+{ Album } ['Wiener Philharmoniker', 'John Williams', 'Anne-Sophie Mutter'] -- John Williams in Vienna ( 14 August 2020 ): 3.369779231653036
+{ EP } ['Ascendant Vierge'] -- Influenceur ( 10 July 2020 ): 3.368829315531702
+{ Mixtape } ['Yung God'] -- Sorry 4 tha Drought ( 18 January 2021 ): 3.366925236487346
+{ Album } ['Various Artists'] -- Indaba Is ( 29 January 2021 ): 3.361260618130437
+{ Album } ['Cory Wong', 'Het Metropole Orkest', 'Vince Mendoza', 'Cody Fry'] -- Live in Amsterdam ( 3 April 2020 ): 3.360210821168821
+{ Album } ['Various Artists'] -- Let It Radicalize You ( 5 June 2020 ): 3.359906785792917
+{ Album } ['Aivi & Surasshu'] -- Steven Universe: Season 1 (Original Television Score) ( 29 May 2020 ): 3.3573262045601555
+{ EP } ['Kessler'] -- Ambivalent EP ( 29 January 2021 ): 3.3566217622705428
+{ Album } ['Yazzus'] -- It's Ya Girl's Bootlegs ( 1 May 2020 ): 3.3542278602323448
+{ Album } ['Autopsy'] -- Live in Chicago ( 30 October 2020 ): 3.353768398173236
+{ Bootleg / Unauthorized } ['Charli XCX'] -- I Don't Know What Minecraft Is (Live at Square Garden) ( 24 April 2020 ): 3.3534154472416193
+{ Bootleg / Unauthorized } ['100 Gecs'] -- Appleville ( 13 September 2020 ): 3.3508005716545766
+{ Album } ['Marco Bernard & Kimmo Pörsti'] -- La Tierra ( 18 September 2020 ): 3.3502918195255256
+{ Album } ['Evil'] -- Possessed by Evil ( 1 February 2021 ): 3.3491319826274863
+{ Album } ['Transatlantic'] -- The Absolute Universe: The Breath of Life (Abridged Version) ( 5 February 2021 ): 3.3490153609861837
+{ Album } ['ThouxanBanFauni'] -- Time of My Life ( 14 February 2021 ): 3.34825843727444
+{ Album } ['Snarky Puppy'] -- Live at the Royal Albert Hall ( 13 March 2020 ): 3.348255567127297
+{ Album } ['iamamiwhoami', 'ionnalee'] -- Konsert ( 29 January 2021 ): 3.348255567127297
+{ EP } ['Hate Forest'] -- Celestial Wanderer ( 4 January 2021 ): 3.3464003309606944
+{ Album } ['Pinegrove'] -- Elsewhere 2 ( 21 April 2020 ): 3.3458512779425438
+{ Album } ['Suzanne Vega'] -- An Evening of New York Songs and Stories ( 11 September 2020 ): 3.3432511087380736
+{ DJ Mix } ['Nicolás Jaar', 'Vincent de Belleval'] -- Free 2 Move ( 19 February 2021 ): 3.341680260054036
+{ Album } ['Chris Jusell', 'Chaz Prymek', 'M. Sage', 'Patrick Shiroishi'] -- Setsubun (節分) ( 2 February 2021 ): 3.3411205329923583
+{ Album } ['Needlepoint'] -- Walking Up That Valley ( 29 January 2021 ): 3.3397628107951642
+{ Album } ['Forhist'] -- Forhist ( 26 February 2021 ): 3.338203564284463
+{ Album } ['Misotheist'] -- For the Glory of Your Redeemer ( 5 February 2021 ): 3.3377171243411685
+{ EP } ['Suho Meso'] -- An Important Message to Every Man and Woman in America Losing His or Her Hair ( 6 February 2021 ): 3.3369881098957004
+{ Album } ['Eis-T', "Ursula's Cartridges"] -- Play It Loud ( 7 May 2020 ): 3.334707683329229
+{ Album } ['Aero Gros M'] -- No Pop Filter ( 4 January 2021 ): 3.3327696561875655
+{ DJ Mix } ['Coco Bryce'] -- Distant Planet MOT 7-12-19 ( 13 May 2020 ): 3.330434969939604
+{ Album } ['Pan-Amerikan Native Front'] -- Little Turtle's War ( 5 February 2021 ): 3.3297875506694155
+{ Album } ['Steve Hackett'] -- Selling England by the Pound & Spectral Mornings: Live at Hammersmith ( 25 September 2020 ): 3.324320735428741
+{ Album } ['Alkerdeel'] -- Slonk ( 5 February 2021 ): 3.3234205898621294
+{ Album } ['For Tracy Hyde'] -- Ethernity ( 17 February 2021 ): 3.318190971289531
+{ Album } ['Ex:Re'] -- Ex:Re with 12 Ensemble ( 19 February 2021 ): 3.317803053420708
+{ Album } ['Rakta', 'Deafkids'] -- Sessões Selo Sesc #6: Sesc Pompeia 2.7.19 ( 8 April 2020 ): 3.3155383034445216
+{ Album } ['Filmmaker'] -- Vlad Tapes ( 5 February 2021 ): 3.3112371934636857
+{ Album } ['Work, Money, Death'] -- The Space in Which the Uncontrollable Unknown Resides, Can Be the Place From Which Creation Arises ( 5 February 2021 ): 3.308696181280444
+{ Bootleg / Unauthorized } ['JPEGMAFIA'] -- Veteran Live ( 22 July 2020 ): 3.3048104534028044
+{ Album } ['Roosevelt'] -- Polydans ( 26 February 2021 ): 3.3045293733183705
+{ Album } ["Jim O'Rourke"] -- Steamroom 53 ( 27 January 2021 ): 3.3036138531852695
+{ Bootleg / Unauthorized } ['Food House'] -- NYU New Music Fest ( 17 October 2020 ): 3.301917620348474
+{ Album } ['Arctic Monkeys'] -- Live at the Royal Albert Hall ( 4 December 2020 ): 3.3002868325313384
+{ Album } ['Lael Neale'] -- Acquainted With Night ( 19 February 2021 ): 3.298532389352018
+{ Album } ['Eclipse'] -- Viva la vicTOURia ( 6 November 2020 ): 3.297086809500963
+{ Album } ['Hong Kong Express'] -- L.Y.F ( 21 February 2021 ): 3.296353044666022
+{ Album } ['ずっと真夜中でいいのに。'] -- ぐされ (Gusare) ( 10 February 2021 ): 3.294803434716612
+{ EP } ['Ellende'] -- Triebe ( 22 January 2021 ): 3.2941459338085126
+{ EP } ['Brent Faiyaz'] -- DO NOT LISTEN ( 9 February 2021 ): 3.290975965338662
+{ Album } ['Ludmilla'] -- Numanice ( 29 January 2021 ): 3.290099390630369
+{ EP } ['Kaizo Slumber'] -- Kaizo Demos, Vol. 1: My Friend Torimoti ( 12 February 2021 ): 3.2896261866090573
+{ Album } ['Menagerie'] -- Many Worlds ( 15 January 2021 ): 3.289225385569607
+{ Bootleg / Unauthorized } ['神聖かまってちゃん'] -- Midori x Shinsei Kamattechan Showdown Live !!!!!! @LIQUIDROOM ( 18 November 2020 ): 3.2855753485278183
+{ Mixtape } ['Clarence Clarity'] -- Your Wrong ( 5 February 2021 ): 3.2842084411587726
+{ Album } ['Les Chants de Nihil'] -- Le tyran et l'esthète ( 22 January 2021 ): 3.2816268137273594
+{ Album } ['Lou Reed'] -- Live At Alice Tully Hall - January 27, 1973 - 2nd Show ( 27 November 2020 ): 3.2754210150634426
+{ DJ Mix } ['Machine Girl'] -- MG Club Quarantine DJ Set ( 16 January 2021 ): 3.274973967178168
+{ Album } ['Jarhead Fertilizer'] -- Product of My Environment ( 26 February 2021 ): 3.274295845894998
+{ EP } ['Twinkle Park'] -- touched, or been touched by ( 28 January 2021 ): 3.2710743475548214
+{ Album } ['Xiu Xiu'] -- OH NO ( 26 March 2021 ): 3.2679569703416322
+{ Album } ['B L A C K I E'] -- Face the Darkness II ( 8 January 2021 ): 3.267954515685301
+{ EP } ['Mild Sorrow Integrated'] -- Every Man to Himself ( 18 February 2021 ): 3.265673021622402
+{ Album } ['Sur Austru'] -- Obârşie ( 12 February 2021 ): 3.264662454187596
+{ Bootleg / Unauthorized } ['Autechre'] -- AE_ONESIX_EXCLUSIVES ( 15 April 2020 ): 3.264110141153974
+{ Album } ['James Yorkston and the Second Hand Orchestra'] -- The Wide, Wide River ( 22 January 2021 ): 3.261671404496497
+{ EP } ['Torture Rack'] -- Pit of Limbs ( 31 January 2021 ): 3.253165337915771
+{ Album } ['acloudyskye'] -- Blood Rushing Like Current Through a Powerline ( 5 February 2021 ): 3.2499477435985895
+{ Album } ['Kanonenfieber'] -- Menschenmühle ( 20 February 2021 ): 3.2481276843423847
+{ Album } ['Elephant9'] -- Arrival of the New Elders ( 12 February 2021 ): 3.2455686559156938
+{ Album } ['Evergrey'] -- Escape of the Phoenix ( 26 February 2021 ): 3.2452860844051714
+{ Album } ['Jakob Bro', 'Arve Henriksen', 'Jorge Rossy'] -- Uma Elmo ( 12 February 2021 ): 3.2423614425485825
+{ Album } ["Joel Hoekstra's 13"] -- Running Games ( 12 February 2021 ): 3.240576874054669
+{ EP } ['Soul Glo'] -- DisNigga Vol. 1 ( 27 February 2021 ): 3.233885593626907
+{ Bootleg / Unauthorized } ['青葉市子'] -- Choe ( 9 January 2021 ): 3.2336609253541897
+{ Album } ['Aylwin'] -- The Arch Holder ( 31 January 2021 ): 3.230650809940829
+{ Album } ['The Bread Scientists'] -- Troposphere ( 19 February 2021 ): 3.230096230381541
+{ Album } ['Isabella James'] -- Isabella James ( 15 February 2021 ): 3.229962481358081
+{ Album } ['LOREM IPSUM'] -- Vivre encore ( 28 January 2021 ): 3.2285051576351416
+{ Album } ['Konquest'] -- The Night Goes On ( 8 January 2021 ): 3.224213718322293
+{ DJ Mix } ['999 Heartake Sabileye'] -- Live Online at Bangerfest 2, 2​/​5​/​21 ( 5 February 2021 ): 3.223213108121768
+{ Album } ['indigo la End'] -- 夜行秘密 (Secret de nuit) ( 17 February 2021 ): 3.219913719187214
+{ Album } ['William Parker'] -- Migration of Silence Into and Out of the Tone World (Volumes 1–10) ( 29 January 2021 ): 3.218602844643507
+{ Album } ['Gallery S.'] -- The Many Hands of God ( 23 January 2021 ): 3.2160402750341466
+{ Album } ['Paranorm'] -- Empyrean ( 26 February 2021 ): 3.2105090892746904
+{ Album } ['Five the Hierophant'] -- Through Aureate Void ( 26 February 2021 ): 3.210125019175238
+{ Album } ['Califato ¾'] -- La contraçeña ( 28 February 2021 ): 3.2017794473663876
+{ Album } ['Kirszenbaum'] -- Się ( 22 January 2021 ): 3.20054283958784
+{ Mixtape } ['Rodeoglo'] -- #757# SPIDER KING #757# ( 24 January 2021 ): 3.1875400581501436
+{ Mixtape } ['Toasty Digital'] -- Good Kid Twisted Fantasy ( 22 February 2021 ): 3.1833993121783304
+{ Album } ['Not Wonk'] -- Dimen ( 27 January 2021 ): 3.178872641369221
+{ Album } ['3D Blast'] -- Music: Here to Stay ( 29 January 2021 ): 3.174419200843065
+{ Album } ['Elisione'] -- (prod. eli) ( 5 February 2021 ): 3.1690351944217108
+{ Album } ['Emile Mosseri'] -- Minari ( 12 February 2021 ): 3.167998232309491
+{ EP } ['Of Mice & Men'] -- Timeless ( 26 February 2021 ): 3.1640406498443068
+{ Album } ['Coffin Nail'] -- Witchfurnace ( 1 May 2021 ): 3.1430961603004817
+{ Album } ['Sunnata'] -- Burning in Heaven, Melting on Earth ( 26 February 2021 ): 3.13876586940263
+{ Album } ['Pontiac Streator'] -- Select Works . vol II ( 11 February 2021 ): 3.134351982444606
+{ EP } ['Cadavoracity'] -- Vitiosus forma exilium ( 8 February 2021 ): 3.1275055494809196
+{ Album } ['Mvltifission'] -- Decomposition in the Painful Metamorphosis ( 4 February 2021 ): 3.113926368946919
+{ Album } ['Bro Biden'] -- Encounter Vast ( 25 February 2021 ): 3.1108506962493383
+{ EP } ['ALI'] -- Love, Music and Dance ( 27 January 2021 ): 3.10705083839599
+{ EP } ['yyed'] -- Two Reflections In Parallel ( 10 February 2021 ): 3.1052036742089717
+{ Album } ['Jexno'] -- No Fun ( 5 February 2021 ): 3.0965539301070417
+{ EP } ['Saidan', 'Klanen'] -- Saidan & Klanen ( 19 February 2021 ): 3.0828694448980065
+{ Album } ['URTH'] -- Shadow of the Torturer ( 19 February 2021 ): 3.0795763082693877
+{ EP } ['Chee'] -- Paralysis Analysis ( 26 February 2021 ): 3.0633584043079365
